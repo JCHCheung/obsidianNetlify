@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/mean-arterial-pressure/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Mean arterial pressure/"}
 ---
 
 

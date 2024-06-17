@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/sodium-nitroprusside/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Sodium nitroprusside/"}
 ---
 
 

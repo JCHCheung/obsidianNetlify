@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/restrictive-lung-disease/"}
+{"dg-publish":true,"permalink":"/pages/restrictive lung disease/"}
 ---
 
 

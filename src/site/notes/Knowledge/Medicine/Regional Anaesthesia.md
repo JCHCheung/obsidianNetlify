@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/regional-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Regional Anaesthesia/"}
 ---
 
 

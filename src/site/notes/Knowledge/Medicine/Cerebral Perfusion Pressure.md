@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/cerebral-perfusion-pressure/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Cerebral Perfusion Pressure/"}
 ---
 
 

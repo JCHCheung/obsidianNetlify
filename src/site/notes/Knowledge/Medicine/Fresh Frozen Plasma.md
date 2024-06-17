@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/fresh-frozen-plasma/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Fresh Frozen Plasma/"}
 ---
 
 

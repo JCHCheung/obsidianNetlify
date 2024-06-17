@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/peripheral-nerve-block/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Peripheral nerve block/"}
 ---
 
 

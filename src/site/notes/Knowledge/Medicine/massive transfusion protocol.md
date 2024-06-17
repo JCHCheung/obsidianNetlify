@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/massive-transfusion-protocol/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/massive transfusion protocol/"}
 ---
 
 

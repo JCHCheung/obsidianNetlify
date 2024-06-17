@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/orthopaedic-surgery/"}
+{"dg-publish":true,"permalink":"/pages/Orthopaedic surgery/"}
 ---
 
 

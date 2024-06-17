@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/part-2/part-2-revision/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Knowledge/Part 2/Part 2 revision/","tags":["gardenEntry"]}
 ---
 
 

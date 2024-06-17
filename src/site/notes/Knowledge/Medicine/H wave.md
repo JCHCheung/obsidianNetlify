@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/h-wave/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/H wave/"}
 ---
 
 

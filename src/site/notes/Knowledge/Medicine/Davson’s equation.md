@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/davson-s-equation/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Davson’s equation/"}
 ---
 
 

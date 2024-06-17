@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/haemoglobin/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Haemoglobin/"}
 ---
 
 

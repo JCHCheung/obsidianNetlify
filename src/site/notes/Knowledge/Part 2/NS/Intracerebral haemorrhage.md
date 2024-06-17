@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/part-2/ns/intracerebral-haemorrhage/"}
+{"dg-publish":true,"permalink":"/Knowledge/Part 2/NS/Intracerebral haemorrhage/"}
 ---
 
 

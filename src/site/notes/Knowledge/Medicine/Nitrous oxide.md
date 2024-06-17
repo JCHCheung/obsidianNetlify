@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/nitrous-oxide/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Nitrous oxide/"}
 ---
 
 

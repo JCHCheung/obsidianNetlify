@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/cerebrospinal-fluid/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Cerebrospinal fluid/"}
 ---
 
 

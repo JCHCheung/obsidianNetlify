@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/av-dissociation/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/AV Dissociation/"}
 ---
 
 

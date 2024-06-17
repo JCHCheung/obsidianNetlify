@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/postoperative-nausea-and-vomiting/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Postoperative nausea and vomiting/"}
 ---
 
 

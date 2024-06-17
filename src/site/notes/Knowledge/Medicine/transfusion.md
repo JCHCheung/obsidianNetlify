@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/transfusion/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/transfusion/"}
 ---
 
 

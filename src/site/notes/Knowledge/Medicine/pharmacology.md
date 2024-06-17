@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/pharmacology/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/pharmacology/"}
 ---
 
 

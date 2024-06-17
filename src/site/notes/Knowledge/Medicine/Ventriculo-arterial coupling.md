@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/ventriculo-arterial-coupling/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Ventriculo-arterial coupling/"}
 ---
 
 

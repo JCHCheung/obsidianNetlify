@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/fibrinogen/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Fibrinogen/"}
 ---
 
 

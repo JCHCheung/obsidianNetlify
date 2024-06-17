@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/trendelenburg-position/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Trendelenburg position/"}
 ---
 
 

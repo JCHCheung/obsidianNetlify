@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/brugada-syndrome/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Brugada syndrome/"}
 ---
 
 

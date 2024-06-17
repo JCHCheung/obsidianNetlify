@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/obstructive-sleep-apnoea-syndrome/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/obstructive sleep apnoea syndrome/"}
 ---
 
 

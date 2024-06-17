@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/valsalva-manoeuvre/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Valsalva Manoeuvre/"}
 ---
 
 

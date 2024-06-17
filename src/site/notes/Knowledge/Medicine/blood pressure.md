@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/blood-pressure/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/blood pressure/"}
 ---
 
 

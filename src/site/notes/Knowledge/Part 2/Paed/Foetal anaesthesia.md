@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/part-2/paed/foetal-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Knowledge/Part 2/Paed/Foetal anaesthesia/"}
 ---
 
 

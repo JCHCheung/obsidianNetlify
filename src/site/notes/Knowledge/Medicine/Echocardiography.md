@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/echocardiography/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Echocardiography/"}
 ---
 
 

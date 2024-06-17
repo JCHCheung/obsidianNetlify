@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/spinal-muscular-atrophy/"}
+{"dg-publish":true,"permalink":"/pages/Spinal Muscular Atrophy/"}
 ---
 
 

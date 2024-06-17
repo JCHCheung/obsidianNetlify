@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/vasopressin/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/vasopressin/"}
 ---
 
 

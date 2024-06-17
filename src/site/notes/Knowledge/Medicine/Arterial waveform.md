@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/arterial-waveform/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Arterial waveform/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/rapid-sequence-induction/"}
+{"dg-publish":true,"permalink":"/pages/rapid sequence induction/"}
 ---
 
 

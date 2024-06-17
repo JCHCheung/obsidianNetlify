@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/ketamine/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Ketamine/"}
 ---
 
 

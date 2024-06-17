@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/mechanical-circulatory-support/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Mechanical circulatory support/"}
 ---
 
 

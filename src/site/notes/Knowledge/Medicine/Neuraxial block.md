@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/neuraxial-block/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Neuraxial block/"}
 ---
 
 

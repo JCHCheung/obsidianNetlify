@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/adult-congenital-heart-disease/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Adult congenital heart disease/"}
 ---
 
 

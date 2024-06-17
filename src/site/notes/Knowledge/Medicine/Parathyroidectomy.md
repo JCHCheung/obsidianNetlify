@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/parathyroidectomy/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Parathyroidectomy/"}
 ---
 
 

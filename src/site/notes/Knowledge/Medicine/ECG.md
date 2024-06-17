@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/ecg/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/ECG/"}
 ---
 
 

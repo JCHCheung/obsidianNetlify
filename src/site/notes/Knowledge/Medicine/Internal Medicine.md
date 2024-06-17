@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/internal-medicine/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Internal Medicine/"}
 ---
 
 

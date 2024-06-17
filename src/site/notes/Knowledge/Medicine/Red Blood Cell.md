@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/red-blood-cell/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Red Blood Cell/"}
 ---
 
 

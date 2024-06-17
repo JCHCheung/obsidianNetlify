@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/aspiration-pneumonitis/"}
+{"dg-publish":true,"permalink":"/pages/Aspiration pneumonitis/"}
 ---
 
 

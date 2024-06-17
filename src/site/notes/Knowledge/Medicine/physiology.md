@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/physiology/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/physiology/"}
 ---
 
 

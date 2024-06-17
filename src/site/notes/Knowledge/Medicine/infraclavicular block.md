@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/infraclavicular-block/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/infraclavicular block/"}
 ---
 
 

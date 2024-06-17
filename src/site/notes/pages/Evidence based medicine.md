@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/evidence-based-medicine/"}
+{"dg-publish":true,"permalink":"/pages/Evidence based medicine/"}
 ---
 
 

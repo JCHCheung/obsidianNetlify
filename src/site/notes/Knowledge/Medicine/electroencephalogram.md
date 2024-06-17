@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/electroencephalogram/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/electroencephalogram/"}
 ---
 
 

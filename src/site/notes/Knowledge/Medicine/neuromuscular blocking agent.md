@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/neuromuscular-blocking-agent/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/neuromuscular blocking agent/"}
 ---
 
 

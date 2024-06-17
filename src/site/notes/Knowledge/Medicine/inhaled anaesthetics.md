@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/inhaled-anaesthetics/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/inhaled anaesthetics/"}
 ---
 
 

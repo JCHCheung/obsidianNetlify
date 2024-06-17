@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/arterial-line/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Arterial line/"}
 ---
 
 202207101205

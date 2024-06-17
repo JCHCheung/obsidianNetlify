@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/neuromuscular-disorder/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Neuromuscular disorder/"}
 ---
 
 

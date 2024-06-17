@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/head-and-neck-surgery/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Head and Neck surgery/"}
 ---
 
 

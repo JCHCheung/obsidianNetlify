@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/part-2/paed/perioperative-fluids/"}
+{"dg-publish":true,"permalink":"/Knowledge/Part 2/Paed/Perioperative fluids/"}
 ---
 
 

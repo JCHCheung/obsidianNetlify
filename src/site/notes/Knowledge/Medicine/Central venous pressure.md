@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/central-venous-pressure/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Central venous pressure/"}
 ---
 
 

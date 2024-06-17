@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/pulse-pressure/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/pulse pressure/"}
 ---
 
 

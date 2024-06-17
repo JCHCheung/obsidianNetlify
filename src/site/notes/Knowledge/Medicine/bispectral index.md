@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/bispectral-index/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/bispectral index/"}
 ---
 
 

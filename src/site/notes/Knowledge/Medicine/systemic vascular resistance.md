@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/systemic-vascular-resistance/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/systemic vascular resistance/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/difficult-airway/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Difficult airway/"}
 ---
 
 

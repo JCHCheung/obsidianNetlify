@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/tranexamic-acid/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/tranexamic acid/"}
 ---
 
 

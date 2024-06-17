@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/intrinsic-peep/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Intrinsic PEEP/"}
 ---
 
 

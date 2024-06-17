@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/free-flap/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/free flap/"}
 ---
 
 

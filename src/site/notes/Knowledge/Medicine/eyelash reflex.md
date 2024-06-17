@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/eyelash-reflex/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/eyelash reflex/"}
 ---
 
 

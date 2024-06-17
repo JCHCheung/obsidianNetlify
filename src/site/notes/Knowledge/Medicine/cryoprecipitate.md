@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/cryoprecipitate/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/cryoprecipitate/"}
 ---
 
 

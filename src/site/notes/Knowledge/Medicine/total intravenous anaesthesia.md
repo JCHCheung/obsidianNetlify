@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/total-intravenous-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/total intravenous anaesthesia/"}
 ---
 
 

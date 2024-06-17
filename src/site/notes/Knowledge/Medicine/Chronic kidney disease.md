@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/chronic-kidney-disease/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Chronic kidney disease/"}
 ---
 
 

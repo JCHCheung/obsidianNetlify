@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/medicine/hysterisis/"}
+{"dg-publish":true,"permalink":"/Knowledge/Medicine/Hysterisis/"}
 ---
 
 202207101404
