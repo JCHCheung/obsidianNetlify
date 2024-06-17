@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-trauma-professional-s-blog/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Trauma Professional's Blog/"}
 ---
 
 # The Trauma Professional's Blog

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/hal-ys-and-qal-ys-and-dal-ys-oh-my-similarities-and-differences-in-summary-measures-of-population-health/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/HALYs and QALYs and DALYs, Oh My Similarities and Differences in Summary Measures of Population Health/"}
 ---
 
 # HALYs and QALYs and DALYs, Oh My: Similarities and Differences in Summary Measures of Population Health

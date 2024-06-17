@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/postural-influence-on-intracranial-and-cerebral-perfusion-pressure-in-ambulatory-neurosurgical-patients/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Postural Influence on Intracranial and Cerebral Perfusion Pressure in Ambulatory Neurosurgical Patients/"}
 ---
 
 # Postural Influence on Intracranial and Cerebral Perfusion Pressure in Ambulatory Neurosurgical Patients

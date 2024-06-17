@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/opioids-for-chronic-non-cancer-pain/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Opioids for Chronic Non-Cancer Pain/"}
 ---
 
 # Opioids for Chronic Non-Cancer Pain

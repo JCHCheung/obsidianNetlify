@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/117-atrial-fibrillation-gray-matters-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#117 Atrial Fibrillation —  Gray Matters Segment/"}
 ---
 
 # #117 Atrial Fibrillation —  Gray Matters Segment

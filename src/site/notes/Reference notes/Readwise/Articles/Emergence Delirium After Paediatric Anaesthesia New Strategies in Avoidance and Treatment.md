@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/emergence-delirium-after-paediatric-anaesthesia-new-strategies-in-avoidance-and-treatment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Emergence Delirium After Paediatric Anaesthesia New Strategies in Avoidance and Treatment/"}
 ---
 
 # Emergence Delirium After Paediatric Anaesthesia: New Strategies in Avoidance and Treatment

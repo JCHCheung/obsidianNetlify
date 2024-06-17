@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/what-is-this-st-elevation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/What Is This ST Elevation/"}
 ---
 
 # What Is This ST Elevation?

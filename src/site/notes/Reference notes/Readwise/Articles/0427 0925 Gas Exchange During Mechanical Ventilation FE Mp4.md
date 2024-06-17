@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/0427-0925-gas-exchange-during-mechanical-ventilation-fe-mp4/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/0427 0925 Gas Exchange During Mechanical Ventilation FE Mp4/"}
 ---
 
 # 0427 0925 Gas Exchange During Mechanical Ventilation FE Mp4

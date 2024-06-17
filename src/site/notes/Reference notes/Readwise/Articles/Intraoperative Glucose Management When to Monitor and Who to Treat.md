@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/intraoperative-glucose-management-when-to-monitor-and-who-to-treat/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Intraoperative Glucose Management When to Monitor and Who to Treat/"}
 ---
 
 # Intraoperative Glucose Management: When to Monitor and Who to Treat?

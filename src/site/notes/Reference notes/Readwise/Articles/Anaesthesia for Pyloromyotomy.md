@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-pyloromyotomy/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Pyloromyotomy/"}
 ---
 
 # Anaesthesia for Pyloromyotomy

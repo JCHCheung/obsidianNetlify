@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/platelet-transfusion-for-trauma-resuscitation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Platelet Transfusion for Trauma Resuscitation/"}
 ---
 
 # Platelet Transfusion for Trauma Resuscitation

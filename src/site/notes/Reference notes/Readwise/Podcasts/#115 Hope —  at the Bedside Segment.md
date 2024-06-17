@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/115-hope-at-the-bedside-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#115 Hope —  at the Bedside Segment/"}
 ---
 
 # #115 Hope —  at the Bedside Segment

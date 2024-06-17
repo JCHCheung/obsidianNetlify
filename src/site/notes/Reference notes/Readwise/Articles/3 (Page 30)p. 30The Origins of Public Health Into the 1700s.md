@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/3-page-30-p-30-the-origins-of-public-health-into-the-1700s/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/3 (Page 30)p. 30The Origins of Public Health Into the 1700s/"}
 ---
 
 # 3 (Page 30)p. 30The Origins of Public Health Into the 1700s

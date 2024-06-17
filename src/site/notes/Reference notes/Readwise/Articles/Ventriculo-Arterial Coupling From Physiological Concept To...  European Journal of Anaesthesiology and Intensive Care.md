@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ventriculo-arterial-coupling-from-physiological-concept-to-european-journal-of-anaesthesiology-and-intensive-care/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Ventriculo-Arterial Coupling From Physiological Concept To...  European Journal of Anaesthesiology and Intensive Care/"}
 ---
 
 # Ventriculo-Arterial Coupling: From Physiological Concept To... : European Journal of Anaesthesiology and Intensive Care

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pediatric-epidural-and-spinal-anesthesia-and-analgesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pediatric Epidural and Spinal Anesthesia and Analgesia/"}
 ---
 
 # Pediatric Epidural and Spinal Anesthesia and Analgesia

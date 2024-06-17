@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/update-on-perioperative-fluids/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Update on Perioperative Fluids/"}
 ---
 
 ## New highlights added June 15, 2024 at 4:03 PM

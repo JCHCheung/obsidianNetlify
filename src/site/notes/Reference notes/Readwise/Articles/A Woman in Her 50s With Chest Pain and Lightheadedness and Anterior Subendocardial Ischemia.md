@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/a-woman-in-her-50s-with-chest-pain-and-lightheadedness-and-anterior-subendocardial-ischemia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/A Woman in Her 50s With Chest Pain and Lightheadedness and Anterior Subendocardial Ischemia/"}
 ---
 
 # A Woman in Her 50s With Chest Pain and Lightheadedness and "Anterior Subendocardial Ischemia"

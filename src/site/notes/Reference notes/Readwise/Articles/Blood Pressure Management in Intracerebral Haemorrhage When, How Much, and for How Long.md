@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/blood-pressure-management-in-intracerebral-haemorrhage-when-how-much-and-for-how-long/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Blood Pressure Management in Intracerebral Haemorrhage When, How Much, and for How Long/"}
 ---
 
 # Blood Pressure Management in Intracerebral Haemorrhage: When, How Much, and for How Long?

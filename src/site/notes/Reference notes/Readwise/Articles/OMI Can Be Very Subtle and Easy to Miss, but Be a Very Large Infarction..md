@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/omi-can-be-very-subtle-and-easy-to-miss-but-be-a-very-large-infarction/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/OMI Can Be Very Subtle and Easy to Miss, but Be a Very Large Infarction./"}
 ---
 
 # OMI Can Be Very Subtle and Easy to Miss, but Be a Very Large Infarction.

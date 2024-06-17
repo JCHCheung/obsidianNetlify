@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/blood-flow-maintenance-by-cardiac-massage-during-cardiopulmonary-resuscitation-classical-theories-newer-hypotheses-and-clinical-utility-of-mechanical-devices/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Blood Flow Maintenance by Cardiac Massage During Cardiopulmonary Resuscitation Classical Theories, Newer Hypotheses, and Clinical Utility of Mechanical Devices/"}
 ---
 
 # Blood Flow Maintenance by Cardiac Massage During Cardiopulmonary Resuscitation: Classical Theories, Newer Hypotheses, and Clinical Utility of Mechanical Devices

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/725-clinically-relevant-pharmacokinetic-knowledge-on-antibiotic-dosing/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/725 —  Clinically Relevant Pharmacokinetic Knowledge on Antibiotic Dosing/"}
 ---
 
 # 725 —  Clinically Relevant Pharmacokinetic Knowledge on Antibiotic Dosing

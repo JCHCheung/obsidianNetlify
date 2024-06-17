@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/adductor-canal-block-what-nerves-are-we-after/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Adductor Canal Block What Nerves Are We After/"}
 ---
 
 # Adductor Canal Block: What Nerves Are We After?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/31-do-lm-as-increase-the-risk-of-aspiration-compared-to-et-ts-part-i-of-ii/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/31 —  Do LMAs Increase the Risk of Aspiration Compared to ETTs - Part I of II/"}
 ---
 
 # 31 —  Do LMAs Increase the Risk of Aspiration Compared to ETTs? - Part I of II

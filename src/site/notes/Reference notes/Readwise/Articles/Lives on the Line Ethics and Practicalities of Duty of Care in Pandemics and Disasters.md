@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/lives-on-the-line-ethics-and-practicalities-of-duty-of-care-in-pandemics-and-disasters/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Lives on the Line Ethics and Practicalities of Duty of Care in Pandemics and Disasters/"}
 ---
 
 # Lives on the Line? Ethics and Practicalities of Duty of Care in Pandemics and Disasters

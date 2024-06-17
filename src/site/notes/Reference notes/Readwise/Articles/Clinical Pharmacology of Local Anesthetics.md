@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/clinical-pharmacology-of-local-anesthetics/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Clinical Pharmacology of Local Anesthetics/"}
 ---
 
 # Clinical Pharmacology of Local Anesthetics

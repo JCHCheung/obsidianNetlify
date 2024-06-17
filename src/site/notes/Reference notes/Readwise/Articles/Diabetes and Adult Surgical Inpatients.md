@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/diabetes-and-adult-surgical-inpatients/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Diabetes and Adult Surgical Inpatients/"}
 ---
 
 # Diabetes and Adult Surgical Inpatients

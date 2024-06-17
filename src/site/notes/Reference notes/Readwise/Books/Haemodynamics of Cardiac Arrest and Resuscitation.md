@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/haemodynamics-of-cardiac-arrest-and-resuscitation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Haemodynamics of Cardiac Arrest and Resuscitation/"}
 ---
 
 # Haemodynamics of Cardiac Arrest and Resuscitation

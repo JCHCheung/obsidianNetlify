@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-non-obstetric-surgery-during-pregnancy/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Non-Obstetric Surgery During Pregnancy/"}
 ---
 
 # Anaesthesia for Non-Obstetric Surgery During Pregnancy

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/through-the-looking-glass-understanding-non-inferiority/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Through the Looking Glass Understanding Non-Inferiority/"}
 ---
 
 # Through the Looking Glass: Understanding Non-Inferiority

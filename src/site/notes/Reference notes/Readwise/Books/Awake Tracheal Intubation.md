@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/awake-tracheal-intubation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Awake Tracheal Intubation/"}
 ---
 
 # Awake Tracheal Intubation

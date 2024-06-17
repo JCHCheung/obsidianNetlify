@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/objective-methods-for-preoperative-assessment-of-functional-capacity-bja-education/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Objective Methods for Preoperative Assessment of Functional Capacity - BJA Education/"}
 ---
 
 # Objective Methods for Preoperative Assessment of Functional Capacity - BJA Education

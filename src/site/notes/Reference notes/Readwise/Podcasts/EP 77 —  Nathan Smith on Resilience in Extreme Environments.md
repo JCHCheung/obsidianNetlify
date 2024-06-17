@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-77-nathan-smith-on-resilience-in-extreme-environments/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 77 —  Nathan Smith on Resilience in Extreme Environments/"}
 ---
 
 # EP 77 —  Nathan Smith on Resilience in Extreme Environments

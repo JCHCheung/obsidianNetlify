@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/central-vein-stenosis/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Central Vein Stenosis/"}
 ---
 
 # Central Vein Stenosis

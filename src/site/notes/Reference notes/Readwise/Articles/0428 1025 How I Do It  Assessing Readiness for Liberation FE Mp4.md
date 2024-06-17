@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/0428-1025-how-i-do-it-assessing-readiness-for-liberation-fe-mp4/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/0428 1025 How I Do It  Assessing Readiness for Liberation FE Mp4/"}
 ---
 
 # 0428 1025 How I Do It  Assessing Readiness for Liberation FE Mp4

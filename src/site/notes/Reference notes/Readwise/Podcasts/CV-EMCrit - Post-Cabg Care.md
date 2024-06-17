@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/cv-em-crit-post-cabg-care/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/CV-EMCrit - Post-Cabg Care/"}
 ---
 
 ## New highlights added June 15, 2024 at 2:09 PM

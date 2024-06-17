@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/leser-trelat-sign/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Leser Trelat Sign/"}
 ---
 
 # Leser Trelat Sign

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/x-descent-of-cvp-an-indirect-measure-of-rv-dysfunction-pmc/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/“X” Descent of CVP An Indirect Measure of RV Dysfunction  - PMC/"}
 ---
 
 # “X” Descent of CVP: An Indirect Measure of RV Dysfunction ? - PMC

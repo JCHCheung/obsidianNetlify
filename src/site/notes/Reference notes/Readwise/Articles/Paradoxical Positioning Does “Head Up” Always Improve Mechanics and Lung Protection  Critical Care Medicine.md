@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/paradoxical-positioning-does-head-up-always-improve-mechanics-and-lung-protection-critical-care-medicine/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Paradoxical Positioning Does “Head Up” Always Improve Mechanics and Lung Protection  Critical Care Medicine/"}
 ---
 
 # Paradoxical Positioning: Does “Head Up” Always Improve Mechanics and Lung Protection?* : Critical Care Medicine

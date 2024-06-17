@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ultrasound-guided-costoclavicular-brachial-plexus-block-sonoanatomy-technique-and-block-dynamics/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Ultrasound-Guided Costoclavicular Brachial Plexus Block Sonoanatomy, Technique, and Block Dynamics/"}
 ---
 
 # Ultrasound-Guided Costoclavicular Brachial Plexus Block: Sonoanatomy, Technique, and Block Dynamics

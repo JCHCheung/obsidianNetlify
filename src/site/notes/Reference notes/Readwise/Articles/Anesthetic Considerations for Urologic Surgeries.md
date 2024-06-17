@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anesthetic-considerations-for-urologic-surgeries/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anesthetic Considerations for Urologic Surgeries/"}
 ---
 
 # Anesthetic Considerations for Urologic Surgeries

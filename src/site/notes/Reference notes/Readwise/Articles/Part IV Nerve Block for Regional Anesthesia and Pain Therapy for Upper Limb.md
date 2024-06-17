@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/part-iv-nerve-block-for-regional-anesthesia-and-pain-therapy-for-upper-limb/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Part IV Nerve Block for Regional Anesthesia and Pain Therapy for Upper Limb/"}
 ---
 
 # Part IV Nerve Block for Regional Anesthesia and Pain Therapy for Upper Limb

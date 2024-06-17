@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/role-of-m-mode-technique-in-today-s-echocardiography/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Role of M Mode Technique in Today's Echocardiography/"}
 ---
 
 # Role of M Mode Technique in Today's Echocardiography

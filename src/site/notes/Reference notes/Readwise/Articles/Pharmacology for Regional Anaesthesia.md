@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pharmacology-for-regional-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pharmacology for Regional Anaesthesia/"}
 ---
 
 # Pharmacology for Regional Anaesthesia

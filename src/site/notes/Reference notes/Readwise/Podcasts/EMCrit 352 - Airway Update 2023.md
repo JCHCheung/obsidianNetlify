@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-352-airway-update-2023/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 352 - Airway Update 2023/"}
 ---
 
 # EMCrit 352 - Airway Update 2023

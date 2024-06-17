@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pro-vasodilators-remain-an-indispensable-treatment-for-acute-heart-failure-european-heart-journal-acute-cardiovascular-care-oxford-academic/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/PRO Vasodilators Remain an Indispensable Treatment for Acute Heart Failure  European Heart Journal. Acute Cardiovascular Care  Oxford Academic/"}
 ---
 
 # PRO: Vasodilators Remain an Indispensable Treatment for Acute Heart Failure | European Heart Journal. Acute Cardiovascular Care | Oxford Academic

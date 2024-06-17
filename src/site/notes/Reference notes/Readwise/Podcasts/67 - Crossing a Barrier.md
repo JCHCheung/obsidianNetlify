@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/67-crossing-a-barrier/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/67 - Crossing a Barrier/"}
 ---
 
 # 67 - Crossing a Barrier

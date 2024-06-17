@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/preoperative-fasting-in-children-the-evolution-of-recommendations-and-guidelines-and-the-underlying-evidence/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Preoperative Fasting in Children. The Evolution of Recommendations and Guidelines, and the Underlying Evidence/"}
 ---
 
 # Preoperative Fasting in Children. The Evolution of Recommendations and Guidelines, and the Underlying Evidence

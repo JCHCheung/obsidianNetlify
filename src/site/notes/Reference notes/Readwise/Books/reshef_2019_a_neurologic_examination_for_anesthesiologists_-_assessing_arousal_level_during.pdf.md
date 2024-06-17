@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/reshef-2019-a-neurologic-examination-for-anesthesiologists-assessing-arousal-level-during-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/reshef_2019_a_neurologic_examination_for_anesthesiologists_-_assessing_arousal_level_during.pdf/"}
 ---
 
 # reshef_2019_a_neurologic_examination_for_anesthesiologists_-_assessing_arousal_level_during.pdf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/seva-vent-rounds-express-a-must-recognize-discordant-loads/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/SEVA VentRounds Express A MUST RECOGNIZE - Discordant Loads/"}
 ---
 
 # SEVA VentRounds Express: A MUST RECOGNIZE - Discordant Loads

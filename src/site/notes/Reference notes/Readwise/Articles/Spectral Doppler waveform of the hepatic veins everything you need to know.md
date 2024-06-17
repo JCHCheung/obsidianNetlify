@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/spectral-doppler-waveform-of-the-hepatic-veins-everything-you-need-to-know/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Spectral Doppler waveform of the hepatic veins everything you need to know/"}
 ---
 
 # Spectral Doppler waveform of the hepatic veins: everything you need to know

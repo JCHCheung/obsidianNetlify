@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/pitfalls-in-the-assessment-of-ventriculo-arterial-coupling-from-peripheral-waveform-analysis-in-septic-shock-comment-on-br-j-anaesth-2020-125/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Pitfalls in the Assessment of Ventriculo-Arterial Coupling From Peripheral Waveform Analysis in Septic Shock. Comment on Br J Anaesth 2020; 125/"}
 ---
 
 # Pitfalls in the Assessment of Ventriculo-Arterial Coupling From Peripheral Waveform Analysis in Septic Shock. Comment on Br J Anaesth 2020; 125

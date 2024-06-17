@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/lanner-2012-ryanodine-receptor-physiology-and-its-role-in-disease-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/lanner_2012_ryanodine_receptor_physiology_and_its_role_in_disease.pdf/"}
 ---
 
 # lanner_2012_ryanodine_receptor_physiology_and_its_role_in_disease.pdf

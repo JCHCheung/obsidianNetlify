@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pulmonary-artery-sheath-hematoma/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pulmonary Artery Sheath Hematoma/"}
 ---
 
 # Pulmonary Artery Sheath Hematoma

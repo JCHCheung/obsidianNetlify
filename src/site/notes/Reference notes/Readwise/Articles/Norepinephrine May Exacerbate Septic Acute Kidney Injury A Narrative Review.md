@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/norepinephrine-may-exacerbate-septic-acute-kidney-injury-a-narrative-review/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Norepinephrine May Exacerbate Septic Acute Kidney Injury A Narrative Review/"}
 ---
 
 # Norepinephrine May Exacerbate Septic Acute Kidney Injury: A Narrative Review

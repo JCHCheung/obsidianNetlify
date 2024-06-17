@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/erector-spinae-plane-block-the-ultimate-plan-a-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Erector Spinae Plane Block The Ultimate ‘Plan A’ Block/"}
 ---
 
 # Erector Spinae Plane Block: The Ultimate ‘Plan A’ Block?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/levick-s-introduction-to-cardiovascular-physiology/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Levick's Introduction to Cardiovascular Physiology/"}
 ---
 
 # Levick's Introduction to Cardiovascular Physiology

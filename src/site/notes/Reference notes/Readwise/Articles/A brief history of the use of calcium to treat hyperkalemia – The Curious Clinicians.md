@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/a-brief-history-of-the-use-of-calcium-to-treat-hyperkalemia-the-curious-clinicians/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/A brief history of the use of calcium to treat hyperkalemia – The Curious Clinicians/"}
 ---
 
 # A brief history of the use of calcium to treat hyperkalemia – The Curious Clinicians

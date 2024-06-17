@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/outsmart-your-own-biases/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Outsmart Your Own Biases/"}
 ---
 
 # Outsmart Your Own Biases

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-i-do-it-ultrasound-guided-bilateral-rectus-sheath-blocks/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How I Do It Ultrasound-Guided Bilateral Rectus Sheath Blocks/"}
 ---
 
 # How I Do It: Ultrasound-Guided Bilateral Rectus Sheath Blocks

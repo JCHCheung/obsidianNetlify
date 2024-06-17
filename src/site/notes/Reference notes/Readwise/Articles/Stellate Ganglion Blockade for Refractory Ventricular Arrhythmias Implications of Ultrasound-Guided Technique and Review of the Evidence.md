@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/stellate-ganglion-blockade-for-refractory-ventricular-arrhythmias-implications-of-ultrasound-guided-technique-and-review-of-the-evidence/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Stellate Ganglion Blockade for Refractory Ventricular Arrhythmias Implications of Ultrasound-Guided Technique and Review of the Evidence/"}
 ---
 
 # Stellate Ganglion Blockade for Refractory Ventricular Arrhythmias: Implications of Ultrasound-Guided Technique and Review of the Evidence

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pathophysiology-of-increased-cerebrospinal-fluid-pressure-associated-to-brain-arteriovenous-malformations-the-hydraulic-hypothesis/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pathophysiology of increased cerebrospinal fluid pressure associated to brain arteriovenous malformations The hydraulic hypothesis/"}
 ---
 
 # Pathophysiology of increased cerebrospinal fluid pressure associated to brain arteriovenous malformations: The hydraulic hypothesis

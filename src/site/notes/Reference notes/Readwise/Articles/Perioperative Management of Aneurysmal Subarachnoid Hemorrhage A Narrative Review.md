@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/perioperative-management-of-aneurysmal-subarachnoid-hemorrhage-a-narrative-review/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Perioperative Management of Aneurysmal Subarachnoid Hemorrhage A Narrative Review/"}
 ---
 
 # Perioperative Management of Aneurysmal Subarachnoid Hemorrhage: A Narrative Review

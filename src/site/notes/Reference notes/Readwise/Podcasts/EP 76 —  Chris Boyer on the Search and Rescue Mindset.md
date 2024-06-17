@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-76-chris-boyer-on-the-search-and-rescue-mindset/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 76 —  Chris Boyer on the Search and Rescue Mindset/"}
 ---
 
 # EP 76 —  Chris Boyer on the Search and Rescue Mindset

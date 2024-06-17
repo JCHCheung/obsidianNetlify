@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/cerebral-salt-wasting-is-a-real-cause-of-hyponatremia-pro/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Cerebral Salt Wasting Is a Real Cause of Hyponatremia PRO/"}
 ---
 
 # Cerebral Salt Wasting Is a Real Cause of Hyponatremia: PRO

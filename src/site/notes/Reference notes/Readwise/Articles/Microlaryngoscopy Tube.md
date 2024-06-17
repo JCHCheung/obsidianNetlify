@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/microlaryngoscopy-tube/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Microlaryngoscopy Tube/"}
 ---
 
 # Microlaryngoscopy Tube

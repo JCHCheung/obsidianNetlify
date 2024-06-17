@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/mastering-bronchoscopy-for-thoracic-surgery-chapter-2/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Mastering Bronchoscopy for Thoracic Surgery Chapter 2/"}
 ---
 
 # Mastering Bronchoscopy for Thoracic Surgery: Chapter 2

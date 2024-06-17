@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/spinal-muscular-atrophy-up-to-date/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Spinal Muscular Atrophy - UpToDate/"}
 ---
 
 # Spinal Muscular Atrophy - UpToDate

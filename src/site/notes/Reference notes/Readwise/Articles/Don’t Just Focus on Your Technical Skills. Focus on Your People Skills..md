@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/don-t-just-focus-on-your-technical-skills-focus-on-your-people-skills/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Don’t Just Focus on Your Technical Skills. Focus on Your People Skills./"}
 ---
 
 # Don’t Just Focus on Your Technical Skills. Focus on Your People Skills.

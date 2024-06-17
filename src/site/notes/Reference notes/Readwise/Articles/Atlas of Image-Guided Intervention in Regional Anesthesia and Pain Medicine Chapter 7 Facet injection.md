@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/atlas-of-image-guided-intervention-in-regional-anesthesia-and-pain-medicine-chapter-7-facet-injection/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Atlas of Image-Guided Intervention in Regional Anesthesia and Pain Medicine Chapter 7 Facet injection/"}
 ---
 
 # Atlas of Image-Guided Intervention in Regional Anesthesia and Pain Medicine Chapter 7 Facet injection

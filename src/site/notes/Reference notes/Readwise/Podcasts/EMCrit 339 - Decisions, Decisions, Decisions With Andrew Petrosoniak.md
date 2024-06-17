@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-339-decisions-decisions-decisions-with-andrew-petrosoniak/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 339 - Decisions, Decisions, Decisions With Andrew Petrosoniak/"}
 ---
 
 # EMCrit 339 - Decisions, Decisions, Decisions With Andrew Petrosoniak

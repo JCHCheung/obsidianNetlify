@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ecg-blog-380-what-is-swirl/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/ECG Blog #380 — What Is Swirl/"}
 ---
 
 # ECG Blog #380 — What Is "Swirl"?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-paediatric-urology/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Paediatric Urology/"}
 ---
 
 # Anaesthesia for Paediatric Urology

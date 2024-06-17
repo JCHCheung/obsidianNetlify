@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/actually-it-s-okay-to-disagree-with-people-at-work/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Actually, It’s Okay to Disagree With People at Work/"}
 ---
 
 # Actually, It’s Okay to Disagree With People at Work

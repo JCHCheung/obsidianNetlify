@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-3-phase-model-of-sudden-cardiac-arrest/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The 3-Phase Model of Sudden Cardiac Arrest/"}
 ---
 
 # The 3-Phase Model of Sudden Cardiac Arrest

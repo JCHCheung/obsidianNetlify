@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/oxford-handbook-of-anaesthesia-chp-19-and-20-cardiac-and-thoracic-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Oxford Handbook of Anaesthesia Chp 19 & 20 Cardiac and thoracic anaesthesia/"}
 ---
 
 # Oxford Handbook of Anaesthesia Chp 19 & 20 Cardiac and thoracic anaesthesia

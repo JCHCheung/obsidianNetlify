@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/arterial-tourniquets/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Arterial tourniquets/"}
 ---
 
 # Arterial tourniquets

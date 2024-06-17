@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-use-of-paraglossal-straight-blade-laryngoscopy-in-difficult-tracheal-intubation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Use of Paraglossal Straight Blade Laryngoscopy in Difficult Tracheal Intubation/"}
 ---
 
 # The Use of Paraglossal Straight Blade Laryngoscopy in Difficult Tracheal Intubation

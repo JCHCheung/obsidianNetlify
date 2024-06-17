@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/103-fluids-5-pearls-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#103 Fluids —  5 Pearls Segment/"}
 ---
 
 # #103 Fluids —  5 Pearls Segment

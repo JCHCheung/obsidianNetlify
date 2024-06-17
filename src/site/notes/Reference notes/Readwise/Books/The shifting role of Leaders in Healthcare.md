@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/the-shifting-role-of-leaders-in-healthcare/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/The shifting role of Leaders in Healthcare/"}
 ---
 
 # The shifting role of Leaders in Healthcare

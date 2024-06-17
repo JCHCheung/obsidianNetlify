@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ask-an-expert-what-should-i-do-if-my-boss-is-gaslighting-me/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Ask an Expert What Should I Do if My Boss Is Gaslighting Me/"}
 ---
 
 # Ask an Expert: What Should I Do if My Boss Is Gaslighting Me?

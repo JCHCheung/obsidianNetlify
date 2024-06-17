@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/pharmacokinetics-in-sepsis/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Pharmacokinetics in Sepsis/"}
 ---
 
 # Pharmacokinetics in Sepsis

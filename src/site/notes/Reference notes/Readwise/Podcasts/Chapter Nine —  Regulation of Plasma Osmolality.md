@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/chapter-nine-regulation-of-plasma-osmolality/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Chapter Nine —  Regulation of Plasma Osmolality/"}
 ---
 
 # Chapter Nine —  Regulation of Plasma Osmolality

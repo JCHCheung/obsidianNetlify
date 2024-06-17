@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/tape-a-medical-adhesive-inspired-by-a-ubiquitous-compound-in-plants/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/TAPE A Medical Adhesive Inspired by a Ubiquitous Compound in Plants/"}
 ---
 
 # TAPE: A Medical Adhesive Inspired by a Ubiquitous Compound in Plants

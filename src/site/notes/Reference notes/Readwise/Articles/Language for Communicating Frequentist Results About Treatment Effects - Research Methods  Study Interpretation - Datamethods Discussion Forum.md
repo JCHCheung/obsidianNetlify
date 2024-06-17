@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/language-for-communicating-frequentist-results-about-treatment-effects-research-methods-study-interpretation-datamethods-discussion-forum/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Language for Communicating Frequentist Results About Treatment Effects - Research Methods  Study Interpretation - Datamethods Discussion Forum/"}
 ---
 
 # Language for Communicating Frequentist Results About Treatment Effects - Research Methods / Study Interpretation - Datamethods Discussion Forum

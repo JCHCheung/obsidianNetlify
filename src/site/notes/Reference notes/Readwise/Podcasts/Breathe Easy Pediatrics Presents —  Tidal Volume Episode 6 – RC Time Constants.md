@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/breathe-easy-pediatrics-presents-tidal-volume-episode-6-rc-time-constants/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Breathe Easy Pediatrics Presents —  Tidal Volume Episode 6 – RC Time Constants/"}
 ---
 
 # Breathe Easy Pediatrics Presents —  Tidal Volume Episode 6 – RC Time Constants

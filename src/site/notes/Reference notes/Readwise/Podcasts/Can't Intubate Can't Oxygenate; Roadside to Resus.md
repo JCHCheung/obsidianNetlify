@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/can-t-intubate-can-t-oxygenate-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Can't Intubate Can't Oxygenate; Roadside to Resus/"}
 ---
 
 # Can't Intubate Can't Oxygenate; Roadside to Resus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/entwistle-2006-scoliosis-surgery-in-children-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/entwistle_2006_scoliosis_surgery_in_children.pdf/"}
 ---
 
 # entwistle_2006_scoliosis_surgery_in_children.pdf

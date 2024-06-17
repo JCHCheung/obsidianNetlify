@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/antonini-canterin-2013-the-ventricular-arterial-coupling-from-basic-pathophysiology-to-clinical-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/antonini-canterin_2013_the_ventricular-arterial_coupling_-_from_basic_pathophysiology_to_clinical.pdf/"}
 ---
 
 # antonini-canterin_2013_the_ventricular-arterial_coupling_-_from_basic_pathophysiology_to_clinical.pdf

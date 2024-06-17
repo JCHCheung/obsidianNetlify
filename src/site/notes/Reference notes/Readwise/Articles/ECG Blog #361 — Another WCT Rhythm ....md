@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ecg-blog-361-another-wct-rhythm/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/ECG Blog #361 — Another WCT Rhythm .../"}
 ---
 
 # ECG Blog #361 — Another WCT Rhythm ...

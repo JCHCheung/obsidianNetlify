@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/point-of-care-viscoelastic-testing/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Point-of-Care Viscoelastic Testing/"}
 ---
 
 # Point-of-Care Viscoelastic Testing

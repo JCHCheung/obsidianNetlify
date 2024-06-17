@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/rectus-sheath-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Rectus Sheath Block/"}
 ---
 
 # Rectus Sheath Block

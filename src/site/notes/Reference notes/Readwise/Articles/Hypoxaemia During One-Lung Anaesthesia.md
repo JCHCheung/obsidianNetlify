@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/hypoxaemia-during-one-lung-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Hypoxaemia During One-Lung Anaesthesia/"}
 ---
 
 # Hypoxaemia During One-Lung Anaesthesia

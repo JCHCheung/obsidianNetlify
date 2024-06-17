@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/three-cultures-of-management-the-key-to-organizational-learning-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Three_cultures_of_management_The_key_to_organizational_learning.pdf/"}
 ---
 
 # Three_cultures_of_management_The_key_to_organizational_learning.pdf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-351-severe-acetaminophen-tylenol-toxicity/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 351 - Severe Acetaminophen (Tylenol) Toxicity/"}
 ---
 
 # EMCrit 351 - Severe Acetaminophen (Tylenol) Toxicity

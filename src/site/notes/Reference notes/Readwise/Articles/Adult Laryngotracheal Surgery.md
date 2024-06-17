@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/adult-laryngotracheal-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Adult Laryngotracheal Surgery/"}
 ---
 
 # Adult Laryngotracheal Surgery

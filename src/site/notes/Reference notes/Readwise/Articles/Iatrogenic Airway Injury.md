@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/iatrogenic-airway-injury/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Iatrogenic Airway Injury/"}
 ---
 
 # Iatrogenic Airway Injury

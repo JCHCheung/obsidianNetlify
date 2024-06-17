@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pediatric-regional-anesthesia-and-acute-pain-management-state-of-the-art/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pediatric Regional Anesthesia and Acute Pain Management State of the Art/"}
 ---
 
 # Pediatric Regional Anesthesia and Acute Pain Management: State of the Art

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/become-a-better-stronger-and-more-confident-negotiator/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Become a Better, Stronger, and More Confident Negotiator/"}
 ---
 
 # Become a Better, Stronger, and More Confident Negotiator

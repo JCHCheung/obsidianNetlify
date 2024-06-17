@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/reconsidering-the-language-of-serious-illness/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Reconsidering the Language of Serious Illness/"}
 ---
 
 # Reconsidering the Language of Serious Illness

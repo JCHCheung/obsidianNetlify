@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/general-anaesthesia-in-obstetrics/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/General Anaesthesia in Obstetrics/"}
 ---
 
 # General Anaesthesia in Obstetrics

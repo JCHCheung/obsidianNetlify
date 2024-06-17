@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/intraoperative-transfusion-of-blood-products-in-adults-up-to-date/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Intraoperative Transfusion of Blood Products in Adults - UpToDate/"}
 ---
 
 # Intraoperative Transfusion of Blood Products in Adults - UpToDate

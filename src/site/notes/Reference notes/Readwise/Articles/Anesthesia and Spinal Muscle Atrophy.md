@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anesthesia-and-spinal-muscle-atrophy/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anesthesia and Spinal Muscle Atrophy/"}
 ---
 
 # Anesthesia and Spinal Muscle Atrophy

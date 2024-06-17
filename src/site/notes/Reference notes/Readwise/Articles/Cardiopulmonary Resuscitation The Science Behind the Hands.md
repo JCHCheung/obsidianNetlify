@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/cardiopulmonary-resuscitation-the-science-behind-the-hands/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Cardiopulmonary Resuscitation The Science Behind the Hands/"}
 ---
 
 # Cardiopulmonary Resuscitation: The Science Behind the Hands

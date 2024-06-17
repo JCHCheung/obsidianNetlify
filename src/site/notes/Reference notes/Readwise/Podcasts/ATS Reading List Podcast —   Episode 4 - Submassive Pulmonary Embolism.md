@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ats-reading-list-podcast-episode-4-submassive-pulmonary-embolism/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/ATS Reading List Podcast —   Episode 4 - Submassive Pulmonary Embolism/"}
 ---
 
 # ATS Reading List Podcast —   Episode 4 - Submassive Pulmonary Embolism

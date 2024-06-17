@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-leaders-should-handle-public-criticism/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How Leaders Should Handle Public Criticism/"}
 ---
 
 # How Leaders Should Handle Public Criticism

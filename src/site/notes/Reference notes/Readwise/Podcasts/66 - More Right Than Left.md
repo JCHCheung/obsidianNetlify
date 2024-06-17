@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/66-more-right-than-left/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/66 - More Right Than Left/"}
 ---
 
 # 66 - More Right Than Left

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/advances-in-foetal-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Advances in Foetal Anaesthesia/"}
 ---
 
 # Advances in Foetal Anaesthesia

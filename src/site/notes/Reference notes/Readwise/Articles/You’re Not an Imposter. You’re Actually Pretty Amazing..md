@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/you-re-not-an-imposter-you-re-actually-pretty-amazing/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/You’re Not an Imposter. You’re Actually Pretty Amazing./"}
 ---
 
 # You’re Not an Imposter. You’re Actually Pretty Amazing.

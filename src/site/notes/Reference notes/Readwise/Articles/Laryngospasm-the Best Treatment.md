@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/laryngospasm-the-best-treatment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Laryngospasm-the Best Treatment/"}
 ---
 
 # Laryngospasm-the Best Treatment

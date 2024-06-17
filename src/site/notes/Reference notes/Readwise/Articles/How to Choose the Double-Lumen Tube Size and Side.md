@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-to-choose-the-double-lumen-tube-size-and-side/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How to Choose the Double-Lumen Tube Size and Side/"}
 ---
 
 # How to Choose the Double-Lumen Tube Size and Side

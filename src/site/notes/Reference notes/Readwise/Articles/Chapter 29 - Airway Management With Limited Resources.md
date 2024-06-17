@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/chapter-29-airway-management-with-limited-resources/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Chapter 29 - Airway Management With Limited Resources/"}
 ---
 
 # Chapter 29 - Airway Management With Limited Resources

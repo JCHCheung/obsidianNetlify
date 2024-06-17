@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Never Split the Difference Negotiating as if Your Life Depended on It/"}
 ---
 
 # Never Split the Difference: Negotiating as if Your Life Depended on It

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/right-ventricular-failure-nejm/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Right Ventricular Failure  NEJM/"}
 ---
 
 # Right Ventricular Failure | NEJM

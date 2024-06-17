@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/750-medication-related-causes-of-elevated-serum-lactate/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/750 —  Medication-Related Causes of Elevated Serum Lactate/"}
 ---
 
 # 750 —  Medication-Related Causes of Elevated Serum Lactate

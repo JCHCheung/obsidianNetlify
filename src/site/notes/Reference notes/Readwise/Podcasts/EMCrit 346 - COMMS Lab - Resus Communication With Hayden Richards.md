@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-346-comms-lab-resus-communication-with-hayden-richards/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 346 - COMMS Lab - Resus Communication With Hayden Richards/"}
 ---
 
 # EMCrit 346 - COMMS Lab - Resus Communication With Hayden Richards

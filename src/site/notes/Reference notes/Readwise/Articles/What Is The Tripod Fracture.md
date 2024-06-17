@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/what-is-the-tripod-fracture/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/What Is The Tripod Fracture/"}
 ---
 
 # What Is: The Tripod Fracture?

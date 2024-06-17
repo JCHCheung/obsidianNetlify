@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/rapid-sequence-induction-where-did-the-consensus-go/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Rapid Sequence Induction Where Did the Consensus Go/"}
 ---
 
 # Rapid Sequence Induction: Where Did the Consensus Go?

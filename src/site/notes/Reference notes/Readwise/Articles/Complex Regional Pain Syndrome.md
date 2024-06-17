@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/complex-regional-pain-syndrome/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Complex Regional Pain Syndrome/"}
 ---
 
 # Complex Regional Pain Syndrome

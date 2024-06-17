@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ilioinguinal-nerve-block-a-how-to-guide/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Ilioinguinal Nerve Block - A How-to Guide/"}
 ---
 
 # Ilioinguinal Nerve Block - A How-to Guide

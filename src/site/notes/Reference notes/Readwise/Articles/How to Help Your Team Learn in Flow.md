@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-to-help-your-team-learn-in-flow/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How to Help Your Team Learn in Flow/"}
 ---
 
 # How to Help Your Team Learn in Flow

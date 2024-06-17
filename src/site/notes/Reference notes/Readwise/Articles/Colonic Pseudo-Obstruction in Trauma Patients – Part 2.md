@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/colonic-pseudo-obstruction-in-trauma-patients-part-2/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Colonic Pseudo-Obstruction in Trauma Patients – Part 2/"}
 ---
 
 # Colonic Pseudo-Obstruction in Trauma Patients – Part 2

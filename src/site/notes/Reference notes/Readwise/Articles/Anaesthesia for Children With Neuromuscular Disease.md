@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-children-with-neuromuscular-disease/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Children With Neuromuscular Disease/"}
 ---
 
 # Anaesthesia for Children With Neuromuscular Disease

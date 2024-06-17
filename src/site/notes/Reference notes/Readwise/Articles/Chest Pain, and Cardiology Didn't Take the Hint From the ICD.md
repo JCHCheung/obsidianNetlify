@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/chest-pain-and-cardiology-didn-t-take-the-hint-from-the-icd/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Chest Pain, and Cardiology Didn't Take the Hint From the ICD/"}
 ---
 
 # Chest Pain, and Cardiology Didn't Take the Hint From the ICD

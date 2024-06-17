@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/cor-triatriatum-a-tale-of-two-membranes/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Cor Triatriatum A Tale of Two Membranes/"}
 ---
 
 # Cor Triatriatum: A Tale of Two Membranes

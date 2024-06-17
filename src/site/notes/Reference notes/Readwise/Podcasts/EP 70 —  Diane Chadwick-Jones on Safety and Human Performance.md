@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-70-diane-chadwick-jones-on-safety-and-human-performance/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 70 —  Diane Chadwick-Jones on Safety and Human Performance/"}
 ---
 
 # EP 70 —  Diane Chadwick-Jones on Safety and Human Performance

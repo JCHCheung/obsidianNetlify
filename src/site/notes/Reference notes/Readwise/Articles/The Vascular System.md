@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-vascular-system/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Vascular System/"}
 ---
 
 # The Vascular System

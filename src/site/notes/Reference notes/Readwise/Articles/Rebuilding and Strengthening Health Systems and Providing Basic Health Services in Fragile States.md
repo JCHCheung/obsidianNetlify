@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/rebuilding-and-strengthening-health-systems-and-providing-basic-health-services-in-fragile-states/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Rebuilding and Strengthening Health Systems and Providing Basic Health Services in Fragile States/"}
 ---
 
 # Rebuilding and Strengthening Health Systems and Providing Basic Health Services in Fragile States

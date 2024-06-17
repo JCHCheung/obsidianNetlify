@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/perioperative-management-for-hepatic-resection-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Perioperative Management for Hepatic Resection Surgery/"}
 ---
 
 # Perioperative Management for Hepatic Resection Surgery

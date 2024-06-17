@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/non-opioid-based-adjuvant-analgesia-in-perioperative-care/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Non-Opioid-Based Adjuvant Analgesia in Perioperative Care/"}
 ---
 
 # Non-Opioid-Based Adjuvant Analgesia in Perioperative Care

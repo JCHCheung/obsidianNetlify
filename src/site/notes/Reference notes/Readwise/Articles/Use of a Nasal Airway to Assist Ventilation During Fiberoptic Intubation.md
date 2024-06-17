@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/use-of-a-nasal-airway-to-assist-ventilation-during-fiberoptic-intubation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Use of a Nasal Airway to Assist Ventilation During Fiberoptic Intubation/"}
 ---
 
 # Use of a Nasal Airway to Assist Ventilation During Fiberoptic Intubation

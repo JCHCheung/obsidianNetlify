@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/an-overview-on-disasters/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/An Overview on Disasters/"}
 ---
 
 # An Overview on Disasters

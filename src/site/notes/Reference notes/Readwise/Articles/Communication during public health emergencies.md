@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/communication-during-public-health-emergencies/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Communication during public health emergencies/"}
 ---
 
 # Communication during public health emergencies

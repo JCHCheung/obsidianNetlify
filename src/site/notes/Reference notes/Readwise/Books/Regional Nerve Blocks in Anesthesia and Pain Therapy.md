@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/regional-nerve-blocks-in-anesthesia-and-pain-therapy/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Regional Nerve Blocks in Anesthesia and Pain Therapy/"}
 ---
 
 # Regional Nerve Blocks in Anesthesia and Pain Therapy

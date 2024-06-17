@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/protocolized-cardiovascular-management-based-on-ventricular-arterial-coupling/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Protocolized Cardiovascular Management Based on Ventricular-Arterial Coupling/"}
 ---
 
 # Protocolized Cardiovascular Management Based on Ventricular-Arterial Coupling

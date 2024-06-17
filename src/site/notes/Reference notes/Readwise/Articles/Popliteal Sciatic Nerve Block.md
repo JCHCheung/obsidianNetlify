@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/popliteal-sciatic-nerve-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Popliteal Sciatic Nerve Block/"}
 ---
 
 # Popliteal Sciatic Nerve Block

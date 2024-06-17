@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/what-s-the-difference-liquid-plasma-vs-ffp/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/What’s the Difference Liquid Plasma vs FFP/"}
 ---
 
 # What’s the Difference? Liquid Plasma vs FFP

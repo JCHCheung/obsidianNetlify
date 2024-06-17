@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/crush-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Crush; Roadside to Resus/"}
 ---
 
 # Crush; Roadside to Resus

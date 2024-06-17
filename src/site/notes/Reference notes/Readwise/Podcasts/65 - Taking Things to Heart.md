@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/65-taking-things-to-heart/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/65 - Taking Things to Heart/"}
 ---
 
 # 65 - Taking Things to Heart

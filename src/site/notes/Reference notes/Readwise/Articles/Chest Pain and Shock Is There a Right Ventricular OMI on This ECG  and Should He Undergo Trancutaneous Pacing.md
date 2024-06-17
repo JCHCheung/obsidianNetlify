@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/chest-pain-and-shock-is-there-a-right-ventricular-omi-on-this-ecg-and-should-he-undergo-trancutaneous-pacing/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Chest Pain and Shock Is There a Right Ventricular OMI on This ECG  and Should He Undergo Trancutaneous Pacing/"}
 ---
 
 # Chest Pain and Shock: Is There a Right Ventricular OMI on This ECG?  and Should He Undergo Trancutaneous Pacing?

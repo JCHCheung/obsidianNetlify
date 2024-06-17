@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/acute-valvular-emergencies/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Acute Valvular Emergencies/"}
 ---
 
 # Acute Valvular Emergencies

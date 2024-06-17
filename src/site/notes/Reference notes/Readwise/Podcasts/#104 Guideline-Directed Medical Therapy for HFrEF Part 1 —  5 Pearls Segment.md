@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/104-guideline-directed-medical-therapy-for-h-fr-ef-part-1-5-pearls-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#104 Guideline-Directed Medical Therapy for HFrEF Part 1 —  5 Pearls Segment/"}
 ---
 
 # #104 Guideline-Directed Medical Therapy for HFrEF Part 1 —  5 Pearls Segment

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/myofascial-trigger-points/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Myofascial Trigger Points/"}
 ---
 
 # Myofascial Trigger Points

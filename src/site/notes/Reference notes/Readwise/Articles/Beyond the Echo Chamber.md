@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/beyond-the-echo-chamber/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Beyond the Echo Chamber/"}
 ---
 
 # Beyond the Echo Chamber

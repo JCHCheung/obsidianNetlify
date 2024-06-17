@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-ten-principles-behind-arterial-pressure/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Ten Principles Behind Arterial Pressure/"}
 ---
 
 # The Ten Principles Behind Arterial Pressure

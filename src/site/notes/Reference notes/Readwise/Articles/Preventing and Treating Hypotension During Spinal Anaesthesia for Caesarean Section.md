@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/preventing-and-treating-hypotension-during-spinal-anaesthesia-for-caesarean-section/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Preventing and Treating Hypotension During Spinal Anaesthesia for Caesarean Section/"}
 ---
 
 # Preventing and Treating Hypotension During Spinal Anaesthesia for Caesarean Section

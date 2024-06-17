@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/awake-intubation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Awake Intubation/"}
 ---
 
 # Awake Intubation

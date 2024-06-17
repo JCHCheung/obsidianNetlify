@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pharmacotherapy-of-neuropathic-pain/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pharmacotherapy of Neuropathic Pain/"}
 ---
 
 # Pharmacotherapy of Neuropathic Pain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/overlooked-and-underestimated-medical-adhesive-related-skin-injuries/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Overlooked and Underestimated Medical Adhesive-Related Skin Injuries/"}
 ---
 
 # Overlooked and Underestimated: Medical Adhesive-Related Skin Injuries

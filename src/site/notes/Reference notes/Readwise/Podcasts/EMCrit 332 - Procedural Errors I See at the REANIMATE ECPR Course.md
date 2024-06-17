@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-332-procedural-errors-i-see-at-the-reanimate-ecpr-course/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 332 - Procedural Errors I See at the REANIMATE ECPR Course/"}
 ---
 
 # EMCrit 332 - Procedural Errors I See at the REANIMATE ECPR Course

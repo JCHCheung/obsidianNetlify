@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/conversion-of-labour-epidural-analgesia-to-surgical-anaesthesia-for-emergency-intrapartum-caesarean-section/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section/"}
 ---
 
 # Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section

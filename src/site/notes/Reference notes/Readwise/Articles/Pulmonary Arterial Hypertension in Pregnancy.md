@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pulmonary-arterial-hypertension-in-pregnancy/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pulmonary Arterial Hypertension in Pregnancy/"}
 ---
 
 # Pulmonary Arterial Hypertension in Pregnancy

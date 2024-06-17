@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/treatments-for-neuropathic-pain-up-to-date-evidence-and-recommendations/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Treatments for Neuropathic Pain Up-to-Date Evidence and Recommendations/"}
 ---
 
 # Treatments for Neuropathic Pain: Up-to-Date Evidence and Recommendations

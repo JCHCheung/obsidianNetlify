@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-hidden-toll-of-microstress/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Hidden Toll of Microstress/"}
 ---
 
 # The Hidden Toll of Microstress

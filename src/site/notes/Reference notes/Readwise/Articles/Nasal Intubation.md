@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/nasal-intubation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Nasal Intubation/"}
 ---
 
 # Nasal Intubation

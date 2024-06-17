@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/chronic-consequences-of-accidental-dural-puncture-and-postdural-puncture-headache-in-obstetric-anaesthesia-sieving-through-the-evidence/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Chronic Consequences of Accidental Dural Puncture and Postdural Puncture Headache in Obstetric Anaesthesia – Sieving Through the Evidence/"}
 ---
 
 ## New highlights added June 15, 2024 at 2:09 PM

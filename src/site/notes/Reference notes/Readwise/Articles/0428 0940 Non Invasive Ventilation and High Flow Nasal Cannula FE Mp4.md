@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/0428-0940-non-invasive-ventilation-and-high-flow-nasal-cannula-fe-mp4/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/0428 0940 Non Invasive Ventilation and High Flow Nasal Cannula FE Mp4/"}
 ---
 
 # 0428 0940 Non Invasive Ventilation and High Flow Nasal Cannula FE Mp4

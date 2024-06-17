@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/dose-of-norepinephrine-the-devil-is-in-the-details/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Dose of Norepinephrine The Devil Is in the Details/"}
 ---
 
 # Dose of Norepinephrine: The Devil Is in the Details

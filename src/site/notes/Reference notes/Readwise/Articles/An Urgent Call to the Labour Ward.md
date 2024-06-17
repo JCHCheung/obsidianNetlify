@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/an-urgent-call-to-the-labour-ward/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/An Urgent Call to the Labour Ward/"}
 ---
 
 # An Urgent Call to the Labour Ward

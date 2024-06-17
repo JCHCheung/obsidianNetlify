@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/health-inequality-an-introduction/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Health Inequality An Introduction/"}
 ---
 
 # Health Inequality: An Introduction

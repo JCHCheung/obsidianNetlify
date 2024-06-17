@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/conceptualizing-and-defining-public-health-emergency-preparedness/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Conceptualizing and Defining Public Health Emergency Preparedness/"}
 ---
 
 # Conceptualizing and Defining Public Health Emergency Preparedness

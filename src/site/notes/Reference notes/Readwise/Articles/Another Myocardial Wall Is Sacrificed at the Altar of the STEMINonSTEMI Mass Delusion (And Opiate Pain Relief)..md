@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/another-myocardial-wall-is-sacrificed-at-the-altar-of-the-stemi-non-stemi-mass-delusion-and-opiate-pain-relief/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Another Myocardial Wall Is Sacrificed at the Altar of the STEMINonSTEMI Mass Delusion (And Opiate Pain Relief)./"}
 ---
 
 # Another Myocardial Wall Is Sacrificed at the Altar of the STEMI/NonSTEMI Mass Delusion (And Opiate Pain Relief).

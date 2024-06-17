@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/59-hyperkalemic-heparin/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/59 - Hyperkalemic Heparin/"}
 ---
 
 # 59 - Hyperkalemic Heparin

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-wee-the-physiology-of-oxygenation-with-alex-of-deranged-physiology/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit Wee - The Physiology of Oxygenation With Alex of Deranged Physiology/"}
 ---
 
 # EMCrit Wee - The Physiology of Oxygenation With Alex of Deranged Physiology

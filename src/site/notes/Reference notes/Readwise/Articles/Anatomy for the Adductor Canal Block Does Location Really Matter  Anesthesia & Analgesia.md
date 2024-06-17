@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anatomy-for-the-adductor-canal-block-does-location-really-matter-anesthesia-and-analgesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anatomy for the Adductor Canal Block Does Location Really Matter  Anesthesia & Analgesia/"}
 ---
 
 # Anatomy for the Adductor Canal Block: Does Location Really Matter? : Anesthesia & Analgesia

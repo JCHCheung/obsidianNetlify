@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-327-critical-aortic-stenosis-with-trina-augustin/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 327 - Critical Aortic Stenosis with Trina Augustin/"}
 ---
 
 # EMCrit 327 - Critical Aortic Stenosis with Trina Augustin

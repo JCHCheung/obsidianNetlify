@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/perioperative-management-of-hydrocephalus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Perioperative Management of Hydrocephalus/"}
 ---
 
 # Perioperative Management of Hydrocephalus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/objective-methods-for-preoperative-assessment-of-functional-capacity/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Objective Methods for Preoperative Assessment of Functional Capacity/"}
 ---
 
 # Objective Methods for Preoperative Assessment of Functional Capacity

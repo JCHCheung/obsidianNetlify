@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/assessment-of-neuropathic-pain/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Assessment of Neuropathic Pain/"}
 ---
 
 # Assessment of Neuropathic Pain

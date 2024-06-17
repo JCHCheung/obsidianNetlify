@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-348-resistant-scape/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 348 - Resistant SCAPE/"}
 ---
 
 # EMCrit 348 - Resistant SCAPE

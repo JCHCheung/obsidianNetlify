@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/armored-re-inforced-tubes/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Armored Re-Inforced Tubes/"}
 ---
 
 # Armored/ Re-Inforced Tubes

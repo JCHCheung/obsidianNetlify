@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/bedside-assessment-of-left-atrial-pressure-in-critical-care-a-multifaceted-gem-critical-care-full-text-2/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Bedside Assessment of Left Atrial Pressure in Critical Care A Multifaceted Gem  Critical Care  Full Text-2/"}
 ---
 
 # Bedside Assessment of Left Atrial Pressure in Critical Care: A Multifaceted Gem | Critical Care | Full Text

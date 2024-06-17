@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-mechanism-of-blood-flow-in-cardiopulmonary-resuscitation-introducing-the-lung-pump/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Mechanism of Blood Flow in Cardiopulmonary Resuscitation—introducing the Lung Pump/"}
 ---
 
 # The Mechanism of Blood Flow in Cardiopulmonary Resuscitation—introducing the Lung Pump

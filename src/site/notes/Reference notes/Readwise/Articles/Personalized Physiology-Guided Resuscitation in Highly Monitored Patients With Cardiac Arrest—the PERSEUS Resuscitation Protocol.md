@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/personalized-physiology-guided-resuscitation-in-highly-monitored-patients-with-cardiac-arrest-the-perseus-resuscitation-protocol/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Personalized Physiology-Guided Resuscitation in Highly Monitored Patients With Cardiac Arrest—the PERSEUS Resuscitation Protocol/"}
 ---
 
 # Personalized Physiology-Guided Resuscitation in Highly Monitored Patients With Cardiac Arrest—the PERSEUS Resuscitation Protocol

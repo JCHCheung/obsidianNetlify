@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/gursoy-2021-an-electrocardiographic-clue-for-pseudo-myocardial-infarction-due-to-arterial-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/gursoy_2021_an_electrocardiographic_clue_for_pseudo-myocardial_infarction_due_to_arterial.pdf/"}
 ---
 
 # gursoy_2021_an_electrocardiographic_clue_for_pseudo-myocardial_infarction_due_to_arterial.pdf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anesthesia-for-the-child-with-a-recent-upper-respiratory-infection/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anesthesia for the Child With a Recent Upper Respiratory Infection/"}
 ---
 
 # Anesthesia for the Child With a Recent Upper Respiratory Infection

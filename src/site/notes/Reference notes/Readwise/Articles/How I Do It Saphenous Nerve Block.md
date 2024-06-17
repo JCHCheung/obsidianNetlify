@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-i-do-it-saphenous-nerve-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How I Do It Saphenous Nerve Block/"}
 ---
 
 # How I Do It: Saphenous Nerve Block

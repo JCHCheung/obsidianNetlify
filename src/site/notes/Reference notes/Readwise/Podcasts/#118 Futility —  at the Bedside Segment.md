@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/118-futility-at-the-bedside-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#118 Futility —  at the Bedside Segment/"}
 ---
 
 # #118 "Futility" —  at the Bedside Segment

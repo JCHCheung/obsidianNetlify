@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/torsade-de-pointes/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Torsade De Pointes/"}
 ---
 
 # Torsade De Pointes

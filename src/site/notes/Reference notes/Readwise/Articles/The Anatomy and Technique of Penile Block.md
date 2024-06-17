@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-anatomy-and-technique-of-penile-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Anatomy and Technique of Penile Block/"}
 ---
 
 # The Anatomy and Technique of Penile Block

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-the-surgical-correction-of-chest-wall-deformities/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for the Surgical Correction of Chest Wall Deformities/"}
 ---
 
 # Anaesthesia for the Surgical Correction of Chest Wall Deformities

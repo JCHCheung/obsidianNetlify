@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/hypovolemia-with-peripheral-edema-what-is-wrong/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Hypovolemia with peripheral edema What is wrong/"}
 ---
 
 # Hypovolemia with peripheral edema: What is wrong?

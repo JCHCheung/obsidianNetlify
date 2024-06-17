@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/anaesthesia-for-paediatric-dentistry/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Anaesthesia for Paediatric Dentistry/"}
 ---
 
 # Anaesthesia for Paediatric Dentistry

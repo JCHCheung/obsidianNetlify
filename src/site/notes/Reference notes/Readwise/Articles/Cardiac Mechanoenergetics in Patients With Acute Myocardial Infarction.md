@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/cardiac-mechanoenergetics-in-patients-with-acute-myocardial-infarction/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Cardiac Mechanoenergetics in Patients With Acute Myocardial Infarction/"}
 ---
 
 # Cardiac Mechanoenergetics in Patients With Acute Myocardial Infarction

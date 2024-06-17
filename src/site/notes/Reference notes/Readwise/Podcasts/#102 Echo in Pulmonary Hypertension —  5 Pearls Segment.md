@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/102-echo-in-pulmonary-hypertension-5-pearls-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#102 Echo in Pulmonary Hypertension —  5 Pearls Segment/"}
 ---
 
 # #102 Echo in Pulmonary Hypertension —  5 Pearls Segment

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/60-heart-failing-to-excrete-sodium/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/60 - (Heart)Failing to Excrete Sodium/"}
 ---
 
 # 60 - (Heart)Failing to Excrete Sodium

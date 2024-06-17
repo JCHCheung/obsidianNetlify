@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/point-of-care-airway-us-a-valuable-tool-in-the-management-of-occult-over-the-cuff-bleeding-and-secretions/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Point-of-Care Airway US A Valuable Tool in the Management of Occult Over the Cuff Bleeding and Secretions/"}
 ---
 
 # Point-of-Care Airway US: A Valuable Tool in the Management of Occult Over the Cuff Bleeding and Secretions

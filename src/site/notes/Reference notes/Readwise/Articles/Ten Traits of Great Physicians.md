@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/ten-traits-of-great-physicians/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Ten Traits of Great Physicians/"}
 ---
 
 # Ten Traits of Great Physicians

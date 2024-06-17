@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/torsades-adjacent-and-triggering-electrocardiographic-events/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Torsades Adjacent and Triggering Electrocardiographic Events/"}
 ---
 
 # Torsades: Adjacent and Triggering Electrocardiographic Events

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/occult-causes-of-non-response-to-vasopressors-rebel-em-emergency-medicine-blog/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Occult Causes of Non-Response to Vasopressors - REBEL EM - Emergency Medicine Blog/"}
 ---
 
 # Occult Causes of Non-Response to Vasopressors - REBEL EM - Emergency Medicine Blog

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/advances-in-pediatric-neuroanesthesia-practices/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Advances in Pediatric Neuroanesthesia Practices/"}
 ---
 
 # Advances in Pediatric Neuroanesthesia Practices

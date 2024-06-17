@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/build-a-strong-learning-culture-on-your-team/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Build a Strong Learning Culture on Your Team/"}
 ---
 
 # Build a Strong Learning Culture on Your Team

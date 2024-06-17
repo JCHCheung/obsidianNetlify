@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/journal-of-the-belgian-society-of-radiology/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Journal of the Belgian Society of Radiology/"}
 ---
 
 # Journal of the Belgian Society of Radiology

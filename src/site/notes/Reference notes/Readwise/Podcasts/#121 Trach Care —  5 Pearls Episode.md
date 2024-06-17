@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/121-trach-care-5-pearls-episode/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#121 Trach Care —  5 Pearls Episode/"}
 ---
 
 # #121 Trach Care —  5 Pearls Episode

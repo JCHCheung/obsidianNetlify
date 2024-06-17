@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/article-of-the-month-january-2022-richard-dutton-kevin-blaine-and-roman-dudaryk/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Article of the Month – January 2022 – Richard Dutton, Kevin Blaine and Roman Dudaryk/"}
 ---
 
 # Article of the Month – January 2022 – Richard Dutton, Kevin Blaine and Roman Dudaryk

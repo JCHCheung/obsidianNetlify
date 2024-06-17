@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-arterial-tourniquet-pathophysiological-consequences-and-anaesthetic-implications/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The arterial tourniquet Pathophysiological consequences and anaesthetic implications/"}
 ---
 
 # The arterial tourniquet: Pathophysiological consequences and anaesthetic implications

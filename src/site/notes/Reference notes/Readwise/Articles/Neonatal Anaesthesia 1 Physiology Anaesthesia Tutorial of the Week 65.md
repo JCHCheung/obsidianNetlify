@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/neonatal-anaesthesia-1-physiology-anaesthesia-tutorial-of-the-week-65/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Neonatal Anaesthesia 1 Physiology Anaesthesia Tutorial of the Week 65/"}
 ---
 
 # Neonatal Anaesthesia 1: Physiology Anaesthesia Tutorial of the Week 65

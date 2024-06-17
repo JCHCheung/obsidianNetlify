@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/sudden-cardiac-death-brugada-syndrome-ecg-cases-em-cases/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Sudden Cardiac Death - Brugada Syndrome  ECG Cases  EM Cases/"}
 ---
 
 # Sudden Cardiac Death - Brugada Syndrome | ECG Cases | EM Cases

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/should-peep-be-used-in-airflow-obstruction/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Should PEEP Be Used in Airflow Obstruction/"}
 ---
 
 # Should PEEP Be Used in Airflow Obstruction?

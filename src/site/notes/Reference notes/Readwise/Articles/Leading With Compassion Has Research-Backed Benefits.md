@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/leading-with-compassion-has-research-backed-benefits/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Leading With Compassion Has Research-Backed Benefits/"}
 ---
 
 # Leading With Compassion Has Research-Backed Benefits

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/giraffes-siphons-and-starling-resistors-cerebral-perfusion-pressure-revisited/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Giraffes, Siphons, and Starling Resistors Cerebral Perfusion Pressure Revisited/"}
 ---
 
 # Giraffes, Siphons, and Starling Resistors: Cerebral Perfusion Pressure Revisited

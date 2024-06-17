@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/emerging-field-of-biased-opioid-agonists/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Emerging Field of Biased Opioid Agonists/"}
 ---
 
 # Emerging Field of Biased Opioid Agonists

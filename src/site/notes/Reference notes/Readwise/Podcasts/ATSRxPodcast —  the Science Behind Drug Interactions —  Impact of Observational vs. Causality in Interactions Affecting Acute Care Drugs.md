@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ats-rx-podcast-the-science-behind-drug-interactions-impact-of-observational-vs-causality-in-interactions-affecting-acute-care-drugs/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/ATSRxPodcast —  the Science Behind Drug Interactions —  Impact of Observational vs. Causality in Interactions Affecting Acute Care Drugs/"}
 ---
 
 # ATSRxPodcast —  the Science Behind Drug Interactions —  Impact of Observational vs. Causality in Interactions Affecting Acute Care Drugs

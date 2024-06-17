@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/debriefing-with-good-judgment-combining-rigorous-feedback-with-genuine-inquiry/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Debriefing With Good Judgment Combining Rigorous Feedback With Genuine Inquiry/"}
 ---
 
 # Debriefing With Good Judgment: Combining Rigorous Feedback With Genuine Inquiry

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/anaesthetic-care-for-surgical-management-of-adolescent-idiopathic-scoliosis/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Anaesthetic Care for Surgical Management of Adolescent Idiopathic Scoliosis/"}
 ---
 
 # Anaesthetic Care for Surgical Management of Adolescent Idiopathic Scoliosis

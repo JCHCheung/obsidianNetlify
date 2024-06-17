@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/a-man-in-his-40s-with-epigastric-pain-and-st-elevation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/A Man in His 40s With Epigastric Pain and ST Elevation/"}
 ---
 
 # A Man in His 40s With Epigastric Pain and ST Elevation

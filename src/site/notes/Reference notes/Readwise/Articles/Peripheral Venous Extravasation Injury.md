@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/peripheral-venous-extravasation-injury/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Peripheral Venous Extravasation Injury/"}
 ---
 
 # Peripheral Venous Extravasation Injury

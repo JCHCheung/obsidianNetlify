@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-78-dr-eve-purdy-on-building-high-performing-emergency-teams/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 78 —  Dr. Eve Purdy on Building High Performing Emergency Teams/"}
 ---
 
 # EP 78 —  Dr. Eve Purdy on Building High Performing Emergency Teams

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/nausea-and-vomiting-after-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Nausea and Vomiting After Surgery/"}
 ---
 
 # Nausea and Vomiting After Surgery

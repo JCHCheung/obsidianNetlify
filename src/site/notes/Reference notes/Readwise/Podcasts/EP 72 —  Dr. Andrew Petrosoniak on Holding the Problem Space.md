@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-72-dr-andrew-petrosoniak-on-holding-the-problem-space/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 72 —  Dr. Andrew Petrosoniak on Holding the Problem Space/"}
 ---
 
 # EP 72 —  Dr. Andrew Petrosoniak on Holding the Problem Space

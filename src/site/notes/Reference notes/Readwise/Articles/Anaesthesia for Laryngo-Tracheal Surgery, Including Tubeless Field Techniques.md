@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-laryngo-tracheal-surgery-including-tubeless-field-techniques/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Laryngo-Tracheal Surgery, Including Tubeless Field Techniques/"}
 ---
 
 # Anaesthesia for Laryngo-Tracheal Surgery, Including Tubeless Field Techniques

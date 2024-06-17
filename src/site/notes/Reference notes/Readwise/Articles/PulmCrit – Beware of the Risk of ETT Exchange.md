@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pulm-crit-beware-of-the-risk-of-ett-exchange/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/PulmCrit – Beware of the Risk of ETT Exchange/"}
 ---
 
 # PulmCrit – Beware of the Risk of ETT Exchange

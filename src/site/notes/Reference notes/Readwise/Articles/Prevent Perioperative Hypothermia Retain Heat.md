@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/prevent-perioperative-hypothermia-retain-heat/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Prevent Perioperative Hypothermia Retain Heat/"}
 ---
 
 # Prevent Perioperative Hypothermia: Retain Heat

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/patient-blood-management-and-perioperative-anaemia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Patient Blood Management and Perioperative Anaemia/"}
 ---
 
 # Patient Blood Management and Perioperative Anaemia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/hypertonic-saline-for-hyponatremia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Hypertonic Saline for Hyponatremia/"}
 ---
 
 # Hypertonic Saline for Hyponatremia

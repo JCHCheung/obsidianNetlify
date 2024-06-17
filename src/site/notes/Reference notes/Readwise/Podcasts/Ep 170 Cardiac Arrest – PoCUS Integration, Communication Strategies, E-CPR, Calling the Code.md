@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-170-cardiac-arrest-po-cus-integration-communication-strategies-e-cpr-calling-the-code/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Ep 170 Cardiac Arrest – PoCUS Integration, Communication Strategies, E-CPR, Calling the Code/"}
 ---
 
 # Ep 170 Cardiac Arrest – PoCUS Integration, Communication Strategies, E-CPR, Calling the Code

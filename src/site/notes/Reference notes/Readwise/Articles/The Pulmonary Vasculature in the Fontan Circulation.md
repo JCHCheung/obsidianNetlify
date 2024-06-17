@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-pulmonary-vasculature-in-the-fontan-circulation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Pulmonary Vasculature in the Fontan Circulation/"}
 ---
 
 # The Pulmonary Vasculature in the Fontan Circulation

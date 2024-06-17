@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/peripheral-nerve-blocks-for-urologic-procedures/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Peripheral Nerve Blocks for Urologic Procedures/"}
 ---
 
 # Peripheral Nerve Blocks for Urologic Procedures

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/millers-anesthesia-thoracic-chapter-53/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Millers_Anesthesia_thoracic Chapter 53/"}
 ---
 
 # Millers_Anesthesia_thoracic Chapter 53

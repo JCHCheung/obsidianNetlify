@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/the-physiology-of-cardiopulmonary-resuscitation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/The Physiology of Cardiopulmonary Resuscitation/"}
 ---
 
 # The Physiology of Cardiopulmonary Resuscitation

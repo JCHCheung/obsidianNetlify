@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/inhalational-induction-in-paediatric-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Inhalational Induction in Paediatric Anaesthesia/"}
 ---
 
 # Inhalational Induction in Paediatric Anaesthesia

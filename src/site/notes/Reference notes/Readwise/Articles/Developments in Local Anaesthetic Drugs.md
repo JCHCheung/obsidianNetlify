@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/developments-in-local-anaesthetic-drugs/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Developments in Local Anaesthetic Drugs/"}
 ---
 
 # Developments in Local Anaesthetic Drugs

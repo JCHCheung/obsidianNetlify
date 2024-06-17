@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/cardiopulmonary-monitoring/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Cardiopulmonary_Monitoring/"}
 ---
 
 # Cardiopulmonary_Monitoring

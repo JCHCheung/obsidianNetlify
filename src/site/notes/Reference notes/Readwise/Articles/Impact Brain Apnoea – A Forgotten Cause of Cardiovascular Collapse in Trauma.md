@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/impact-brain-apnoea-a-forgotten-cause-of-cardiovascular-collapse-in-trauma/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Impact Brain Apnoea – A Forgotten Cause of Cardiovascular Collapse in Trauma/"}
 ---
 
 # Impact Brain Apnoea – A Forgotten Cause of Cardiovascular Collapse in Trauma

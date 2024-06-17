@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/leaders-need-to-get-comfortable-collaborating-on-strategy/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Leaders Need to Get Comfortable Collaborating on Strategy/"}
 ---
 
 # Leaders Need to Get Comfortable Collaborating on Strategy

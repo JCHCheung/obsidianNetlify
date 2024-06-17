@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/clinical-approach-to-chronic-pain-due-to-perioperative-nerve-injury/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Clinical Approach to Chronic Pain Due to Perioperative Nerve Injury/"}
 ---
 
 # Clinical Approach to Chronic Pain Due to Perioperative Nerve Injury

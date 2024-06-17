@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/critical-neuropathophysiology/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Critical_Neuropathophysiology/"}
 ---
 
 # Critical_Neuropathophysiology

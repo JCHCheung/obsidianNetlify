@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/echocardiography-and-volume-status-lessons-from-left-ventricular-assist-devices/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Echocardiography and Volume Status Lessons From Left Ventricular Assist Devices/"}
 ---
 
 # Echocardiography and Volume Status: Lessons From Left Ventricular Assist Devices

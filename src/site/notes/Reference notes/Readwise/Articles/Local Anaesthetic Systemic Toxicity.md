@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/local-anaesthetic-systemic-toxicity/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Local Anaesthetic Systemic Toxicity/"}
 ---
 
 # Local Anaesthetic Systemic Toxicity

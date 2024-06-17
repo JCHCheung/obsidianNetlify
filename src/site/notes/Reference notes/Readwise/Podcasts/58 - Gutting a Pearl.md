@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/58-gutting-a-pearl/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/58 - Gutting a Pearl/"}
 ---
 
 # 58 - Gutting a Pearl

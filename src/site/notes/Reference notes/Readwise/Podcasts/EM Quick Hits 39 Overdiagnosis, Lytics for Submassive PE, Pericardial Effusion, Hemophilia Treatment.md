@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-quick-hits-39-overdiagnosis-lytics-for-submassive-pe-pericardial-effusion-hemophilia-treatment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EM Quick Hits 39 Overdiagnosis, Lytics for Submassive PE, Pericardial Effusion, Hemophilia Treatment/"}
 ---
 
 # EM Quick Hits 39 Overdiagnosis, Lytics for Submassive PE, Pericardial Effusion, Hemophilia Treatment

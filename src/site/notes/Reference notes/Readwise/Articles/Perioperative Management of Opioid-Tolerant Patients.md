@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/perioperative-management-of-opioid-tolerant-patients/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Perioperative Management of Opioid-Tolerant Patients/"}
 ---
 
 # Perioperative Management of Opioid-Tolerant Patients

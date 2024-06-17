@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/do-compliments-make-you-cringe-here-s-why/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Do Compliments Make You Cringe Here’s Why./"}
 ---
 
 # Do Compliments Make You Cringe? Here’s Why.

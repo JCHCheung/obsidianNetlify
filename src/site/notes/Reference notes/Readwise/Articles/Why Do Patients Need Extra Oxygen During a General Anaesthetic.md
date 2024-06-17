@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/why-do-patients-need-extra-oxygen-during-a-general-anaesthetic/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Why Do Patients Need Extra Oxygen During a General Anaesthetic/"}
 ---
 
 # Why Do Patients Need Extra Oxygen During a General Anaesthetic?

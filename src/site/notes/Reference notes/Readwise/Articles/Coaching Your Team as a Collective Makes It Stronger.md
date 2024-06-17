@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/coaching-your-team-as-a-collective-makes-it-stronger/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Coaching Your Team as a Collective Makes It Stronger/"}
 ---
 
 # Coaching Your Team as a Collective Makes It Stronger

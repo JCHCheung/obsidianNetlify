@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/trauma-are-you-prepared/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Trauma! Are You Prepared/"}
 ---
 
 # Trauma! Are You Prepared?

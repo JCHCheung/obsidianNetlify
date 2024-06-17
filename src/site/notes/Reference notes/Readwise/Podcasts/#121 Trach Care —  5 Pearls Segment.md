@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/121-trach-care-5-pearls-segment/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#121 Trach Care —  5 Pearls Segment/"}
 ---
 
 # #121 Trach Care —  5 Pearls Segment

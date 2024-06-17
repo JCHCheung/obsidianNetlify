@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-334-cv-em-crit-concise-heart-mate-3-lvad-overview/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 334 - CV-EMCrit - Concise HeartMate 3 LVAD Overview/"}
 ---
 
 # EMCrit 334 - CV-EMCrit - Concise HeartMate 3 LVAD Overview

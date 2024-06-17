@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/peep-auto-peep-and-waterfalls/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/PEEP, Auto-Peep, and Waterfalls/"}
 ---
 
 # PEEP, Auto-Peep, and Waterfalls

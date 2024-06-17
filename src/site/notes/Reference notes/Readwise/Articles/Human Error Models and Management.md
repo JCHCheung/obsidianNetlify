@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/human-error-models-and-management/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Human Error Models and Management/"}
 ---
 
 # Human Error: Models and Management

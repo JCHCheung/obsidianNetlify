@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pediatric-respiratory-failure-a-peril-in-young-children/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pediatric Respiratory Failure A Peril in Young Children/"}
 ---
 
 # Pediatric Respiratory Failure: A Peril in Young Children

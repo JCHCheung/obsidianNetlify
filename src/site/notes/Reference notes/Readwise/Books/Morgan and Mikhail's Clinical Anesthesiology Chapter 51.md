@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/morgan-and-mikhail-s-clinical-anesthesiology-chapter-51/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Morgan and Mikhail's Clinical Anesthesiology Chapter 51/"}
 ---
 
 # Morgan and Mikhail's Clinical Anesthesiology Chapter 51

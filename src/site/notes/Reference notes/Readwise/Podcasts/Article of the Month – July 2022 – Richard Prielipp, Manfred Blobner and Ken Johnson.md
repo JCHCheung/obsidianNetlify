@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/article-of-the-month-july-2022-richard-prielipp-manfred-blobner-and-ken-johnson/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Article of the Month – July 2022 – Richard Prielipp, Manfred Blobner and Ken Johnson/"}
 ---
 
 # Article of the Month – July 2022 – Richard Prielipp, Manfred Blobner and Ken Johnson

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/dexmedetomidine-in-paediatric-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Dexmedetomidine in Paediatric Anaesthesia/"}
 ---
 
 # Dexmedetomidine in Paediatric Anaesthesia

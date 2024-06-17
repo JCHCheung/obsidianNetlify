@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/tenney-2006-situation-awareness-catches-on-what-so-what-now-what-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/tenney_2006_situation_awareness_catches_on_-_what_-_so_what_-_now_what.pdf/"}
 ---
 
 # tenney_2006_situation_awareness_catches_on_-_what_-_so_what_-_now_what.pdf

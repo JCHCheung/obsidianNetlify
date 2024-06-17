@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/transversus-abdominis-plane-block-an/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Transversus Abdominis Plane Block An/"}
 ---
 
 # Transversus Abdominis Plane Block: An

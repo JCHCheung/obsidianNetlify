@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/supraclavicular-brachial-plexus-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Supraclavicular Brachial Plexus Block/"}
 ---
 
 # Supraclavicular Brachial Plexus Block

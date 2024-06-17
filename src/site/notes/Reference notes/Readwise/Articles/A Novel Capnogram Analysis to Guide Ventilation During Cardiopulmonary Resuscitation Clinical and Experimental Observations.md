@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/a-novel-capnogram-analysis-to-guide-ventilation-during-cardiopulmonary-resuscitation-clinical-and-experimental-observations/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/A Novel Capnogram Analysis to Guide Ventilation During Cardiopulmonary Resuscitation Clinical and Experimental Observations/"}
 ---
 
 # A Novel Capnogram Analysis to Guide Ventilation During Cardiopulmonary Resuscitation: Clinical and Experimental Observations

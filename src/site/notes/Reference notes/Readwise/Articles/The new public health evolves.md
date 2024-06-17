@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-new-public-health-evolves/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The new public health evolves/"}
 ---
 
 # The new public health evolves

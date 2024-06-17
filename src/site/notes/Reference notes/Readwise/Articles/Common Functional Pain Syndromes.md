@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/common-functional-pain-syndromes/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Common Functional Pain Syndromes/"}
 ---
 
 # Common Functional Pain Syndromes

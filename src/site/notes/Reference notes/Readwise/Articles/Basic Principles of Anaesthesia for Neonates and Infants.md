@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/basic-principles-of-anaesthesia-for-neonates-and-infants/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Basic Principles of Anaesthesia for Neonates and Infants/"}
 ---
 
 # Basic Principles of Anaesthesia for Neonates and Infants

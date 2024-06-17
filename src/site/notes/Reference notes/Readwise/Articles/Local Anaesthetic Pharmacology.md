@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/local-anaesthetic-pharmacology/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Local Anaesthetic Pharmacology/"}
 ---
 
 # Local Anaesthetic Pharmacology

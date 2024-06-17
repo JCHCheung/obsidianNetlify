@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/a-practical-approach-to-adult-one-lung-ventilation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/A Practical Approach to Adult One-Lung Ventilation/"}
 ---
 
 # A Practical Approach to Adult One-Lung Ventilation

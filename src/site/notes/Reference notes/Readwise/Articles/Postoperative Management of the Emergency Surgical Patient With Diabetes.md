@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/postoperative-management-of-the-emergency-surgical-patient-with-diabetes/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Postoperative Management of the Emergency Surgical Patient With Diabetes/"}
 ---
 
 # Postoperative Management of the Emergency Surgical Patient With Diabetes

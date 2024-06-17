@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/mechanical-cardiopulmonary-resuscitation-during-in-hospital-cardiac-arrest/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Mechanical Cardiopulmonary Resuscitation During In‐Hospital Cardiac Arrest/"}
 ---
 
 # Mechanical Cardiopulmonary Resuscitation During In‐Hospital Cardiac Arrest

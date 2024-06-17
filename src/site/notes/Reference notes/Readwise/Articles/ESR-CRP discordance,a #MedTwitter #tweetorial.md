@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/esr-crp-discordance-a-med-twitter-tweetorial/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/ESR-CRP discordance,a #MedTwitter #tweetorial/"}
 ---
 
 # ESR-CRP discordance,a #MedTwitter #tweetorial

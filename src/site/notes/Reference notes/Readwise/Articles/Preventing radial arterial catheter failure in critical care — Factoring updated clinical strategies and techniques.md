@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/preventing-radial-arterial-catheter-failure-in-critical-care-factoring-updated-clinical-strategies-and-techniques/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Preventing radial arterial catheter failure in critical care — Factoring updated clinical strategies and techniques/"}
 ---
 
 # Preventing radial arterial catheter failure in critical care — Factoring updated clinical strategies and techniques

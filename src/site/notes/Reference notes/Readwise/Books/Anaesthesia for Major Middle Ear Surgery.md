@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/anaesthesia-for-major-middle-ear-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Anaesthesia for Major Middle Ear Surgery/"}
 ---
 
 # Anaesthesia for Major Middle Ear Surgery

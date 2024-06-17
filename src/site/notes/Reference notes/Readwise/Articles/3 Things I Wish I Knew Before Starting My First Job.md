@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/3-things-i-wish-i-knew-before-starting-my-first-job/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/3 Things I Wish I Knew Before Starting My First Job/"}
 ---
 
 # 3 Things I Wish I Knew Before Starting My First Job

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-video-assisted-and-robotic-thoracic-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Video-Assisted and Robotic Thoracic Surgery/"}
 ---
 
 # Anaesthesia for Video-Assisted and Robotic Thoracic Surgery

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-right-way-to-process-feedback-2/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Right Way to Process Feedback-2/"}
 ---
 
 # The Right Way to Process Feedback

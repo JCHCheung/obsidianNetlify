@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/caution-do-not-attempt-this-at-home-airway-pressure-release-ventilation-should-not-routinely-be-used-in-patients-with-or-at-risk-of-acute-respiratory-distress-syndrome-outside-of-a-clinical-trial-critical-care-medicine/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Caution—Do Not Attempt This at Home. Airway Pressure Release Ventilation Should Not Routinely Be Used in Patients With or at Risk of Acute Respiratory Distress Syndrome Outside of a Clinical Trial  Critical Care Medicine/"}
 ---
 
 # Caution—Do Not Attempt This at Home. Airway Pressure Release Ventilation Should Not Routinely Be Used in Patients With or at Risk of Acute Respiratory Distress Syndrome Outside of a Clinical Trial : Critical Care Medicine

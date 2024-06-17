@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/social-justice-in-pandemic-preparedness/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Social Justice in Pandemic Preparedness/"}
 ---
 
 # Social Justice in Pandemic Preparedness

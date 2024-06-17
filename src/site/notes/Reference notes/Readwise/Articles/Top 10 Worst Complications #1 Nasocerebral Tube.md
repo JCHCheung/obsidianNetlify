@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/top-10-worst-complications-1-nasocerebral-tube/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Top 10 Worst Complications #1 Nasocerebral Tube/"}
 ---
 
 # Top 10 Worst Complications: #1 Nasocerebral Tube

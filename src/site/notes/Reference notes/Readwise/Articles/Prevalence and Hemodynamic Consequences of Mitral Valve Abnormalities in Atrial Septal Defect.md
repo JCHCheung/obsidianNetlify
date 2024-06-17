@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/prevalence-and-hemodynamic-consequences-of-mitral-valve-abnormalities-in-atrial-septal-defect/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Prevalence and Hemodynamic Consequences of Mitral Valve Abnormalities in Atrial Septal Defect/"}
 ---
 
 # Prevalence and Hemodynamic Consequences of Mitral Valve Abnormalities in Atrial Septal Defect

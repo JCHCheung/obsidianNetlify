@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-to-become-more-adaptable-in-challenging-situations/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How to Become More Adaptable in Challenging Situations/"}
 ---
 
 # How to Become More Adaptable in Challenging Situations

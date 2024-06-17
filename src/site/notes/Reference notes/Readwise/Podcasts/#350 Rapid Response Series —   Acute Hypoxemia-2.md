@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/350-rapid-response-series-acute-hypoxemia-2/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/#350 Rapid Response Series —   Acute Hypoxemia-2/"}
 ---
 
 # #350 Rapid Response Series —   Acute Hypoxemia

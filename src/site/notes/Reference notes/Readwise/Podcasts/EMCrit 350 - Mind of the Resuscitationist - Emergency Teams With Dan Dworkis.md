@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-350-mind-of-the-resuscitationist-emergency-teams-with-dan-dworkis/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 350 - Mind of the Resuscitationist - Emergency Teams With Dan Dworkis/"}
 ---
 
 # EMCrit 350 - Mind of the Resuscitationist - Emergency Teams With Dan Dworkis

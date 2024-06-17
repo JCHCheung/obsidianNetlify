@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/how-i-do-it-external-oblique-intercostal-plane-block/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/How I Do It External Oblique Intercostal Plane Block/"}
 ---
 
 # How I Do It: External Oblique Intercostal Plane Block

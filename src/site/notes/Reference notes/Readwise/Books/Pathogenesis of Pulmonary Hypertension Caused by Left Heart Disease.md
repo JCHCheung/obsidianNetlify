@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/pathogenesis-of-pulmonary-hypertension-caused-by-left-heart-disease/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Pathogenesis of Pulmonary Hypertension Caused by Left Heart Disease/"}
 ---
 
 # Pathogenesis of Pulmonary Hypertension Caused by Left Heart Disease

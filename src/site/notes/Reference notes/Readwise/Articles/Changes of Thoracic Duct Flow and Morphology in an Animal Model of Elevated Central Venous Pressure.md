@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/changes-of-thoracic-duct-flow-and-morphology-in-an-animal-model-of-elevated-central-venous-pressure/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Changes of Thoracic Duct Flow and Morphology in an Animal Model of Elevated Central Venous Pressure/"}
 ---
 
 # Changes of Thoracic Duct Flow and Morphology in an Animal Model of Elevated Central Venous Pressure

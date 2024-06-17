@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/peripheral-nerve-blocks-for-children/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Peripheral Nerve Blocks for Children/"}
 ---
 
 # Peripheral Nerve Blocks for Children

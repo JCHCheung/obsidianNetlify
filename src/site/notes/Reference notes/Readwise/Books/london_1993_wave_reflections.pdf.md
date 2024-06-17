@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/london-1993-wave-reflections-pdf/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/london_1993_wave_reflections.pdf/"}
 ---
 
 # london_1993_wave_reflections.pdf

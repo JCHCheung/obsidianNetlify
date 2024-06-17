@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/cardiopulmonary-resuscitation-a-promise-as-yet-largely-unfulfilled/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Cardiopulmonary Resuscitation A Promise as Yet Largely Unfulfilled/"}
 ---
 
 # Cardiopulmonary Resuscitation: A Promise as Yet Largely Unfulfilled

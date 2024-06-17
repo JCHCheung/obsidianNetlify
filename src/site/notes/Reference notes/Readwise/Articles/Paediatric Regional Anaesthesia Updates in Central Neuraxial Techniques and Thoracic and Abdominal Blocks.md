@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/paediatric-regional-anaesthesia-updates-in-central-neuraxial-techniques-and-thoracic-and-abdominal-blocks/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Paediatric Regional Anaesthesia Updates in Central Neuraxial Techniques and Thoracic and Abdominal Blocks/"}
 ---
 
 # Paediatric Regional Anaesthesia: Updates in Central Neuraxial Techniques and Thoracic and Abdominal Blocks

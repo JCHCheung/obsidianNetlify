@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/improving-vasopressor-use-in-cardiac-arrest/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Improving Vasopressor Use in Cardiac Arrest/"}
 ---
 
 # Improving Vasopressor Use in Cardiac Arrest

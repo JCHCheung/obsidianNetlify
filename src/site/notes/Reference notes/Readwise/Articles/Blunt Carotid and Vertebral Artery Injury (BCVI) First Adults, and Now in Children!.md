@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/blunt-carotid-and-vertebral-artery-injury-bcvi-first-adults-and-now-in-children/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Blunt Carotid and Vertebral Artery Injury (BCVI) First Adults, and Now in Children!/"}
 ---
 
 # Blunt Carotid and Vertebral Artery Injury (BCVI): First Adults, and Now in Children!

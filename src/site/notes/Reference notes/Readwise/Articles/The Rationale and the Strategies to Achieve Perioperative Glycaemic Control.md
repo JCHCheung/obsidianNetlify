@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/the-rationale-and-the-strategies-to-achieve-perioperative-glycaemic-control/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/The Rationale and the Strategies to Achieve Perioperative Glycaemic Control/"}
 ---
 
 # The Rationale and the Strategies to Achieve Perioperative Glycaemic Control

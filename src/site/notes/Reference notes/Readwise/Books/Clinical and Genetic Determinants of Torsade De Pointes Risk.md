@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/clinical-and-genetic-determinants-of-torsade-de-pointes-risk/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Clinical and Genetic Determinants of Torsade De Pointes Risk/"}
 ---
 
 # Clinical and Genetic Determinants of Torsade De Pointes Risk

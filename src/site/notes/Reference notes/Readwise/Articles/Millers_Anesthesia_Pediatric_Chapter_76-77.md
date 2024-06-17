@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/millers-anesthesia-pediatric-chapter-76-77/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Millers_Anesthesia_Pediatric_Chapter_76-77/"}
 ---
 
 # Millers_Anesthesia_Pediatric_Chapter_76-77

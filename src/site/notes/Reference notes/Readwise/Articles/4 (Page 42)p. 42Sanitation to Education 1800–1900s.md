@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/4-page-42-p-42-sanitation-to-education-1800-1900s/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/4 (Page 42)p. 42Sanitation to Education 1800–1900s/"}
 ---
 
 # 4 (Page 42)p. 42Sanitation to Education: 1800–1900s

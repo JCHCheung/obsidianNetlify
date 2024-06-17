@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-329-bariatric-critical-care-and-resus-ready-for-the-super-obese-patient/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 329 - Bariatric Critical Care and Resus Ready for the Super Obese Patient/"}
 ---
 
 # EMCrit 329 - Bariatric Critical Care and Resus Ready for the Super Obese Patient

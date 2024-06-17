@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/understanding-central-venous-pressure-not-a-preload-index/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Understanding Central Venous Pressure Not a Preload Index/"}
 ---
 
 # Understanding Central Venous Pressure: Not a Preload Index?

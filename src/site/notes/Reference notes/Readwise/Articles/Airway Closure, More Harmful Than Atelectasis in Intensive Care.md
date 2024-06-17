@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/airway-closure-more-harmful-than-atelectasis-in-intensive-care/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Airway Closure, More Harmful Than Atelectasis in Intensive Care/"}
 ---
 
 # Airway Closure, More Harmful Than Atelectasis in Intensive Care?

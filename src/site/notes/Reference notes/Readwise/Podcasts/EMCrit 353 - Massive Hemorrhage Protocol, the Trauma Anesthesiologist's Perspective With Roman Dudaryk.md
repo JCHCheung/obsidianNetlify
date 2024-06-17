@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-353-massive-hemorrhage-protocol-the-trauma-anesthesiologist-s-perspective-with-roman-dudaryk/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit 353 - Massive Hemorrhage Protocol, the Trauma Anesthesiologist's Perspective With Roman Dudaryk/"}
 ---
 
 # EMCrit 353 - Massive Hemorrhage Protocol, the Trauma Anesthesiologist's Perspective With Roman Dudaryk

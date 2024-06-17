@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/chronic-kidney-disease-and-anaesthesia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Chronic Kidney Disease and Anaesthesia/"}
 ---
 
 # Chronic Kidney Disease and Anaesthesia

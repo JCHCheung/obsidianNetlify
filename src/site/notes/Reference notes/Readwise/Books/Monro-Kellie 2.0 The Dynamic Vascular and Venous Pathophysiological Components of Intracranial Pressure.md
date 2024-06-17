@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/monro-kellie-2-0-the-dynamic-vascular-and-venous-pathophysiological-components-of-intracranial-pressure/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Monro-Kellie 2.0 The Dynamic Vascular and Venous Pathophysiological Components of Intracranial Pressure/"}
 ---
 
 # Monro-Kellie 2.0: The Dynamic Vascular and Venous Pathophysiological Components of Intracranial Pressure

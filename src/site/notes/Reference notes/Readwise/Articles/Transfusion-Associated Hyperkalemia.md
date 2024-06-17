@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/transfusion-associated-hyperkalemia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Transfusion-Associated Hyperkalemia/"}
 ---
 
 # Transfusion-Associated Hyperkalemia

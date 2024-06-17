@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/books/pro-and-con-how-important-is-the-exact-location-of-adductor-canal-and-femoral-triangle-blocks/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Books/Pro and Con How Important Is the Exact Location of Adductor Canal and Femoral Triangle Blocks/"}
 ---
 
 # Pro and Con: How Important Is the Exact Location of Adductor Canal and Femoral Triangle Blocks?

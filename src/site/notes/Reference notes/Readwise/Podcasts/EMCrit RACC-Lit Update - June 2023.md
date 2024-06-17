@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/em-crit-racc-lit-update-june-2023/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EMCrit RACC-Lit Update - June 2023/"}
 ---
 
 # EMCrit RACC-Lit Update - June 2023

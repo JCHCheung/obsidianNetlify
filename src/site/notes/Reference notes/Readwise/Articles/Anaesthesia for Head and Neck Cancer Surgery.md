@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/anaesthesia-for-head-and-neck-cancer-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Head and Neck Cancer Surgery/"}
 ---
 
 # Anaesthesia for Head and Neck Cancer Surgery

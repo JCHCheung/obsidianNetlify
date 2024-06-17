@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/pain-management-in-day-case-surgery/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Pain Management in Day-Case Surgery/"}
 ---
 
 # Pain Management in Day-Case Surgery

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/articles/turning-away-from-industrial-health-care-toward-careful-and-kind-care-academic-medicine/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Turning Away From Industrial Health Care Toward Careful and Kind Care  Academic Medicine/"}
 ---
 
 # Turning Away From Industrial Health Care Toward Careful and Kind Care : Academic Medicine
