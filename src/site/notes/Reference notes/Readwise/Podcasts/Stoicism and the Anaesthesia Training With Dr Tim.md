@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/stoicism-and-the-anaesthesia-training-with-dr-tim/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Stoicism and the Anaesthesia Training With Dr Tim/"}
 ---
 
 # Stoicism and the Anaesthesia Training With Dr Tim

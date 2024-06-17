@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-61-ecpr-with-scott-weingart/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 61 —  ECPR With Scott Weingart/"}
 ---
 
 # Episode 61 —  ECPR With Scott Weingart

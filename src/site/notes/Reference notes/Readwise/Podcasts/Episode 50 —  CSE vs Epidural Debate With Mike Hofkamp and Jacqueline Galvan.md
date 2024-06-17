@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-50-cse-vs-epidural-debate-with-mike-hofkamp-and-jacqueline-galvan/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 50 —  CSE vs Epidural Debate With Mike Hofkamp and Jacqueline Galvan/"}
 ---
 
 # Episode 50 —  CSE vs Epidural Debate With Mike Hofkamp and Jacqueline Galvan

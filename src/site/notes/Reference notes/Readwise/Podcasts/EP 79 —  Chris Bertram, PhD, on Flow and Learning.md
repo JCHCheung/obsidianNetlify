@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-79-chris-bertram-ph-d-on-flow-and-learning/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 79 —  Chris Bertram, PhD, on Flow and Learning/"}
 ---
 
 # EP 79 —  Chris Bertram, PhD, on Flow and Learning

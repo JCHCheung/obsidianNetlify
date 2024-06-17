@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/pacing-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Pacing; Roadside to Resus/"}
 ---
 
 # Pacing; Roadside to Resus

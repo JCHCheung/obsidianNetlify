@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-51-labor-analgesia-with-jacqueline-galvan/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 51 —  Labor Analgesia With Jacqueline Galvan/"}
 ---
 
 # Episode 51 —  Labor Analgesia With Jacqueline Galvan

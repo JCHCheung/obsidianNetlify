@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/the-diamond-of-death-in-trauma-hypocalcemia/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/The Diamond of Death in Trauma - Hypocalcemia/"}
 ---
 
 # The "Diamond of Death" in Trauma - Hypocalcemia

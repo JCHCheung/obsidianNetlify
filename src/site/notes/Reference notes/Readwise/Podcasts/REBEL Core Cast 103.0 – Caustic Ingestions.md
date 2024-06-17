@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/rebel-core-cast-103-0-caustic-ingestions/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/REBEL Core Cast 103.0 – Caustic Ingestions/"}
 ---
 
 # REBEL Core Cast 103.0 – Caustic Ingestions

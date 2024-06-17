@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-55-term-pregnancy-part-2-with-mike-hofkamp/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 55 —  Term Pregnancy Part 2 With Mike Hofkamp/"}
 ---
 
 # Episode 55 —  Term Pregnancy Part 2 With Mike Hofkamp

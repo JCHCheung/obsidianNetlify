@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ibcc-episode-125-left-ventricular-outflow-tract-obstruction/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/IBCC Episode 125 - Left Ventricular Outflow Tract Obstruction/"}
 ---
 
 # IBCC Episode 125 - Left Ventricular Outflow Tract Obstruction

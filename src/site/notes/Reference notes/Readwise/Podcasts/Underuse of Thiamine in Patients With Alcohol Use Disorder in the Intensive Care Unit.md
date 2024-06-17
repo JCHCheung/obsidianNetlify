@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/underuse-of-thiamine-in-patients-with-alcohol-use-disorder-in-the-intensive-care-unit/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Underuse of Thiamine in Patients With Alcohol Use Disorder in the Intensive Care Unit/"}
 ---
 
 # Underuse of Thiamine in Patients With Alcohol Use Disorder in the Intensive Care Unit

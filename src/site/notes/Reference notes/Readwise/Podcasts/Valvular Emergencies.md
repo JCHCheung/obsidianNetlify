@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/valvular-emergencies/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Valvular Emergencies/"}
 ---
 
 # Valvular Emergencies

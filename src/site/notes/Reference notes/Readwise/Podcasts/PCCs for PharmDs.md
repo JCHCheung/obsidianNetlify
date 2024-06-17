@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/pc-cs-for-pharm-ds/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/PCCs for PharmDs/"}
 ---
 
 # PCCs for PharmDs

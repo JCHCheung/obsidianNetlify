@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-67-dan-dworkis-md-ph-d-on-mental-models-for-performance-under-pressure/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 67 —  Dan Dworkis, MD PhD, on Mental Models for Performance Under Pressure/"}
 ---
 
 # EP 67 —  Dan Dworkis, MD PhD, on Mental Models for Performance Under Pressure

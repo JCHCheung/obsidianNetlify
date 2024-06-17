@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-229-keywords-part-19-epidurals/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 229 —  Keywords Part 19 —  Epidurals/"}
 ---
 
 # Episode 229 —  Keywords Part 19 —  Epidurals

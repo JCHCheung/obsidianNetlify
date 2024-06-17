@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/lorazepam-ativan-pharmacology-podcast/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Lorazepam (Ativan) Pharmacology Podcast/"}
 ---
 
 # Lorazepam (Ativan) Pharmacology Podcast

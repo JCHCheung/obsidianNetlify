@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-82-rob-orman-md-on-identity-work-and-process/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 82 —  Rob Orman, MD, on Identity, Work, and Process/"}
 ---
 
 # EP 82 —  Rob Orman, MD, on Identity, Work, and Process

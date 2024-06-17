@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-86-thromboelastography-with-bob-sikorski/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 86 —  Thromboelastography With Bob Sikorski/"}
 ---
 
 # Episode 86 —  Thromboelastography With Bob Sikorski

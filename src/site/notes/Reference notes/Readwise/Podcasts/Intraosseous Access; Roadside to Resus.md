@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/intraosseous-access-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Intraosseous Access; Roadside to Resus/"}
 ---
 
 # Intraosseous Access; Roadside to Resus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/lactate-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Lactate; Roadside to Resus/"}
 ---
 
 # Lactate; Roadside to Resus

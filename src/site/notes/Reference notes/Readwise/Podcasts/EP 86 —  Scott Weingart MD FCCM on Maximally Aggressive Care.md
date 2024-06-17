@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-86-scott-weingart-md-fccm-on-maximally-aggressive-care/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 86 —  Scott Weingart MD FCCM on Maximally Aggressive Care/"}
 ---
 
 # EP 86 —  Scott Weingart MD FCCM on Maximally Aggressive Care

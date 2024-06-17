@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-59-takotsubo-cardiomyopathy-with-vincent-sorrell/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 59 —  Takotsubo Cardiomyopathy With Vincent Sorrell/"}
 ---
 
 # Episode 59 —  Takotsubo Cardiomyopathy With Vincent Sorrell

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/neck-of-femur-fractures-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Neck of Femur Fractures; Roadside to Resus/"}
 ---
 
 # Neck of Femur Fractures; Roadside to Resus

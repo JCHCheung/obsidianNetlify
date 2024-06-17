@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/tirbo-29-understanding-blood-transfusion/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/TIRBO #29 —  Understanding Blood Transfusion/"}
 ---
 
 # TIRBO #29 —  Understanding Blood Transfusion

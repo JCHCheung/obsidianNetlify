@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/top-tap-tips-for-tums-abdominal-wall-blocks/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Top Tap Tips for Tums —  Abdominal Wall Blocks/"}
 ---
 
 ## New highlights added June 15, 2024 at 2:09 PM

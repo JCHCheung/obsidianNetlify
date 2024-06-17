@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-54-term-pregnancy-part-1-with-jacqueline-galvan/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 54 —  Term Pregnancy Part 1 With Jacqueline Galvan/"}
 ---
 
 # Episode 54 —  Term Pregnancy Part 1 With Jacqueline Galvan

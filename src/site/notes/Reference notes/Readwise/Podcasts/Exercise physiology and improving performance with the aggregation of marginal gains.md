@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/exercise-physiology-and-improving-performance-with-the-aggregation-of-marginal-gains/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Exercise physiology and improving performance with the aggregation of marginal gains/"}
 ---
 
 # Exercise physiology and improving performance with the aggregation of marginal gains

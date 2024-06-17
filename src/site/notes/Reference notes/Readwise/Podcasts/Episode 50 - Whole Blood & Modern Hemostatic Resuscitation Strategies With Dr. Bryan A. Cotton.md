@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-50-whole-blood-and-modern-hemostatic-resuscitation-strategies-with-dr-bryan-a-cotton/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 50 - Whole Blood & Modern Hemostatic Resuscitation Strategies With Dr. Bryan A. Cotton/"}
 ---
 
 # Episode 50 - Whole Blood & Modern Hemostatic Resuscitation Strategies With Dr. Bryan A. Cotton

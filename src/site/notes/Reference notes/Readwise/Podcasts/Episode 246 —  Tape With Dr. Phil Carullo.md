@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-246-tape-with-dr-phil-carullo/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 246 —  Tape With Dr. Phil Carullo/"}
 ---
 
 # Episode 246 —  Tape With Dr. Phil Carullo

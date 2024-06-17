@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-46-obstetric-pharmacology-and-fetal-assessment-with-mike-hofkamp/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 46 —  Obstetric Pharmacology and Fetal Assessment With Mike Hofkamp/"}
 ---
 
 # Episode 46 —  Obstetric Pharmacology and Fetal Assessment With Mike Hofkamp

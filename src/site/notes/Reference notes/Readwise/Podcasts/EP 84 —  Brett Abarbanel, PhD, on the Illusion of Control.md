@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-84-brett-abarbanel-ph-d-on-the-illusion-of-control/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/EP 84 —  Brett Abarbanel, PhD, on the Illusion of Control/"}
 ---
 
 # EP 84 —  Brett Abarbanel, PhD, on the Illusion of Control

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/life-death-and-the-bridges-in-between-part-ii-with-dr-sam-shemie/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Life, Death and the Bridges in Between - Part II, With Dr Sam Shemie./"}
 ---
 
 # Life, Death and the Bridges in Between - Part II, With Dr Sam Shemie.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-253-the-acute-pain-service-with-drs-segna-rayaz-jaremko-and-barnhart/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 253 —  the Acute Pain Service With Drs. Segna, Rayaz, Jaremko and Barnhart/"}
 ---
 
 # Episode 253 —  the Acute Pain Service With Drs. Segna, Rayaz, Jaremko and Barnhart

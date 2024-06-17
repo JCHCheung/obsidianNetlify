@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-62-problems-during-pregnancy-with-jacqueline-galvan-part-1/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 62 —  Problems During Pregnancy With Jacqueline Galvan Part 1/"}
 ---
 
 # Episode 62 —  Problems During Pregnancy With Jacqueline Galvan Part 1

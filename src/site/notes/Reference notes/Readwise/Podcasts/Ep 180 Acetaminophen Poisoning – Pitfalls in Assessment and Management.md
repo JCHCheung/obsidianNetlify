@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/ep-180-acetaminophen-poisoning-pitfalls-in-assessment-and-management/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Ep 180 Acetaminophen Poisoning – Pitfalls in Assessment and Management/"}
 ---
 
 # Ep 180 Acetaminophen Poisoning – Pitfalls in Assessment and Management

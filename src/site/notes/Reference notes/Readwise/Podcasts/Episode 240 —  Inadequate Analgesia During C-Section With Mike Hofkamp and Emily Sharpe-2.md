@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/episode-240-inadequate-analgesia-during-c-section-with-mike-hofkamp-and-emily-sharpe-2/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 240 —  Inadequate Analgesia During C-Section With Mike Hofkamp and Emily Sharpe-2/"}
 ---
 
 # Episode 240 —  Inadequate Analgesia During C-Section With Mike Hofkamp and Emily Sharpe

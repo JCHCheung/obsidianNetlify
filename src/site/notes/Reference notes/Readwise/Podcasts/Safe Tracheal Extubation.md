@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/safe-tracheal-extubation/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Safe Tracheal Extubation/"}
 ---
 
 # Safe Tracheal Extubation

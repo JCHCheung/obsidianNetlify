@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/forearmed-is-forewarned-bits-and-bobs-of-the-plexus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Forearmed Is Forewarned —  Bits and Bobs of the Plexus/"}
 ---
 
 # Forearmed Is Forewarned —  Bits and Bobs of the Plexus

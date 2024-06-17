@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/readwise/podcasts/traumatic-pneumothorax-roadside-to-resus/"}
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Traumatic Pneumothorax; Roadside to Resus/"}
 ---
 
 # Traumatic Pneumothorax; Roadside to Resus
